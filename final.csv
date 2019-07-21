@@ -1,0 +1,1117 @@
+scene+act,dialogue,name,text,sentiment
+11,1,roderigo,"'sblood,  but you will not hear me: if ever i did dream of such a matter, abhor me. ",0.0
+11,1,iago,thou told'st me thou didst hold him in thy hate. ,-0.8
+11,2,roderigo,"despise me,  if i do not.  three great ones of the city, in personal suit to make me his lieutenant, off-capped to him: and,  by the faith of man, i know my price,  i am worth no worse a place: but he,  as loving his own pride and purposes, evades them,  with a bumbast circumstancehorribly stuffed with epithets of war:and,  in conclusion,  nonsuitsmy mediators: for,  ""certes, "" says he, ""i have already chose my officer. ""and what was he? forsooth,  a great arithmetician, one michael cassio,  a florentine, a fellow almost damned in a fair wife.  that never set a squadron in the field, nor the division of a battle knowsmore than a spinster.   unless the bookish theoric, wherein the toged consuls can proposeas masterly as he: mere prattle,  without practice, is all his soldiership.  but he,  sir,  had the election:and i,  of whom his eyes had seen the proofat rhodes,  at cyprus,  and on other grounds, christian and heathen,  must be beleeed and calmedby debitor and creditor,  this counter-caster.  he,  in good time,  must his lieutenant be, and i god bless the mark! his moorship's ancient. ",0.3541666666666667
+11,2,iago,"by heaven,  i rather would have been his hangman. ",0.0
+11,3,roderigo,"why,  there's no remedy.   'tis the curse of service, preferment goes by letter and affection, and not by old gradation,  where each secondstood heir to the first.  now,  sir,  be judge yourselfwhether i in any just term am affinedto love the moor. ",0.2833333333333333
+11,3,iago,"i would not follow him,  then. ",0.0
+11,4,roderigo,"o,  sir,  content you.  i follow him to serve my turn upon him:we cannot all be masters,  nor all masterscannot be truly followed.  you shall markmany a duteous and knee-crooking knavethat,  doting on his own obsequious bondage, wears out his time,  much like his master's ass, for nought but provender.   and when he's old,  cashiered:whip me such honest knaves.  others there arewho,  trimmed in forms and visages of duty, keep yet their hearts attending on themselves.  and,  throwing but shows of service on their lords, do well thrive by them,  and when they have lined their coats, do themselves homage: these fellows have some soul.  and such a one do i profess myself.  for,  sir, it is as sure as you are roderigo, were i the moor,  i would not be iago:in following him,  i follow but myself.  heaven is my judge,  not i for love and duty, but seeming so for my peculiar end:for when my outward action doth demonstratethe native act and figure of my heartin complement extern,  'tis not long afterbut i will wear my heart upon my sleevefor daws to peck at: i am not what i am. ",0.23863636363636365
+11,4,iago,"what a full fortune does the thick lips owe, if he can carry't thus!",-0.012500000000000039
+11,5,roderigo,"call up her father, rouse him: make after him,  poison his delight, proclaim him in the streets.   incense her kinsmen, and,  though he in a fertile climate dwell, plague him with flies: though that his joy be joy, yet throw such changes of vexation on'tas it may lose some color. ",0.5333333333333333
+11,5,iago,here is her father's house: i'll call aloud. ,0.0
+11,6,roderigo,"do.   with like timorous accent and dire yellas when,  by night and negligence,  the fireis spied in populous cities. ",0.0
+11,6,iago,"what,  ho,  brabantio! signior brabantio,  ho!",0.0
+11,7,roderigo,"awake! what,  ho,  brabantio! thieves! thieves! thieves!look to your house,  your daughter,  and your bags!thieves! thieves!",0.0
+11,7,iago,what is the reason of this terrible summons? what is the matter there? ,-1.0
+11,1,brabantio,"signior,  is all your family within? ",0.0
+11,8,roderigo,are your doors locked? ,0.0
+11,8,iago,"why,  wherefore ask you this? ",0.0
+11,2,brabantio,"zounds,  sir,  you're robbed.   for shame,  put on your gown.  your heart is burst,  you have lost half your soul.  even now,  now,  very now,  an old black ramis tupping your white ewe.  arise,  arise.  awake the snorting citizens with the bell, or else the devil will make a grandsire of you:arise,  i say. ",-0.006666666666666659
+11,9,iago,"what,  have you lost your wits? ",0.0
+11,3,brabantio,"most reverend signior,  do you know my voice? ",0.5
+11,9,roderigo,not i.   what are you? ,0.0
+11,4,brabantio,my name is roderigo. ,0.0
+11,10,roderigo,"the worser welcome:i have charged thee not to haunt about my doors.  in honest plainness thou hast heard me saymy daughter is not for thee.   and now,  in madness, being full of supper and distempering draughts, upon malicious bravery dost thou cometo start my quiet. ",0.31666666666666665
+11,11,roderigo,but thou must needs be suremy spirit and my place have in them powerto make this bitter to thee. ,-0.1
+11,6,brabantio,"patience,  good sir. ",0.7
+11,12,roderigo,what tell'st thou me of robbing?  this is venice.  my house is not a grange. ,0.0
+11,7,brabantio,"most grave brabantio, in simple and pure soul i come to you. ",0.2380952380952381
+11,13,roderigo,"zounds,  sir,  you are one of those that will not serve god if thedevil bid you.  because we come to do you service,  and you thinkwe are ruffians,  you'll have your daughter covered with a barbaryhorse.   you'll have your nephews neigh to you.   you'll have coursersfor cousins and gennets for germans. ",0.0
+11,10,iago,what profane wretch art thou? ,0.0
+11,8,brabantio,"i am one,  sir,  that comes to tell you your daughter and the moorare now making the beast with two backs. ",0.0
+11,11,iago,thou art a villain. ,0.0
+11,9,brabantio,you are a senator. ,0.0
+11,12,iago,"this thou shalt answer.   i know thee,  roderigo. ",0.0
+11,10,brabantio,"sir,  i will answer anything.  but,  i beseech you, if't be your pleasure and most wise consent,  as partly i find it is,  that your fair daughter, at this odd-even and dull watch o' the night, transported with no worse nor better guardbut with a knave of common hire,  a gondolier, to the gross clasps of a lascivious moor,  if this be known to you,  and your allowance, we then have done you bold and saucy wrongs.  but if you know not this,  my manners tell mewe have your wrong rebuke.  do not believethat,  from the sense of all civility, i thus would play and trifle with your reverence:your daughter,  if you have not given her leave,  i say again,  hath made a gross revolt.  tying her duty,  beauty,  wit,  and fortunesin an extravagant and wheeling strangerof here and everywhere.  straight satisfy yourself:if she be in her chamber or your houselet loose on me the justice of the statefor thus deluding you. ",0.15113412228796846
+11,14,roderigo,"strike on the tinder,  ho!give me a taper! call up all my people! this accident is not unlike my dream:belief of it oppresses me already.  light,  i say! light!",0.5
+11,11,brabantio,"farewell.   for i must leave you:it seems not meet nor wholesome to my placeto be produced,  as if i stay i shall,  against the moor: for i do know the state,  however this may gall him with some check,  cannot with safety cast him.   for he's embarkedwith such loud reason to the cyprus wars,  which even now stand in act,  that,  for their souls, another of hi1s fathom they have noneto lead their business: in which regard, though i do hate him as i do hell pains, yet,  for necessity of present life, i must show out a flag and sign of love, which is indeed but sign.  that you shall surely find him, lead to the sagittary the raised search.  and there will i be with him.  so,  farewell. ",0.04999999999999999
+11,13,iago,"it is too true an evil: gone she is.  and what's to come of my despised timeis naught but bitterness.  now,  roderigo, where didst thou see her?  o unhappy girl! with the moor,  say'st thou?  who would be a father!how didst thou know 'twas she?  o,  she deceives mepast thought.  what said she to you?  get more tapers.  raise all my kindred.  are they married,  think you? ",-0.12999999999999998
+11,12,brabantio,"truly,  i think they are. ",0.0
+11,15,roderigo,"o heaven! how got she out?  o treason of the blood! fathers,  from hence trust not your daughters' mindsby what you see them act.  are there not charmsby which the property of youth and maidhoodmay be abused?  have you not read,  roderigo, of some such thing? ",0.0
+11,13,brabantio,"yes,  sir,  i have indeed. ",0.0
+11,16,roderigo,"call up my brother.  o,  would you had had her! some one way,  some another.  do you knowwhere we may apprehend her and the moor? ",0.0
+11,14,brabantio,"i think i can discover him,  if you pleaseto get good guard,  and go along with me. ",0.7
+11,17,roderigo,"pray you,  lead on.  at every house i'll call.  i may command at most.  get weapons,  ho!and raise some special officers of night.  on,  good roderigo: i'll deserve your pains. scene ii.  venice.  another street. ",0.5190476190476191
+11,15,brabantio,"though in the trade of war i have slain men, yet do i hold it very stuff o' the conscienceto do no contrived murder: i lack iniquitysometimes to do me service: nine or ten timesi had thought to have yerked him here under the ribs. ",0.15
+12,1,iago,'tis better as it is. ,0.5
+12,1,othello,"nay,  but he prated, and spoke such scurvy and provoking termsagainst your honor, that,  with the little godliness i have, i did full hard forbear him.  but,  i pray you,  sir, are you fast married?  be assured of this, that the magnifico is much beloved.  and hath,  in his effect,  a voice potentialas double as the duke's: he will divorce you.  or put upon you what restraint and grievancethe law,  with all his might to enforce it on,  will give him cable. ",0.12760416666666666
+12,2,iago,"let him do his spite:my services which i have done the signioryshall out-tongue his complaints.  'tis yet to know,  which,  when i know that boasting is an honor, i shall promulgate,  i fetch my life and beingfrom men of royal siege.   and my demeritsmay speak unbonneted to as proud a fortuneas this that i have reached: for know,  iago, but that i love the gentle desdemona, i would not my unhoused free conditionput into circumscription and confinefor the sea's worth.  but,  look! what lights come yond? ",0.45499999999999996
+12,2,othello,those are the raised father and his friends:you were best go in. ,1.0
+12,3,iago,"not i.   i must be found.  my parts,  my title,  and my perfect soulshall manifest me rightly.  is it they? ",0.6428571428571428
+12,3,othello,"by janus,  i think no. ",0.0
+12,4,iago,"the servants of the duke and my lieutenant.  the goodness of the night upon you,  friends!what is the news? ",0.0
+12,4,othello,"the duke does greet you,  general.  and he requires your haste-post-haste appearanceeven on the instant. ",0.02500000000000001
+12,1,cassio,"what is the matter,  think you? ",0.0
+12,5,othello,"something from cyprus,  as i may divine:it is a business of some heat: the galleyshave sent a dozen sequent messengersthis very night at one another's heels.  and many of the consuls,  raised and met, are at the duke's already: you have been hotly called for.  when,  being not at your lodging to be found, the senate hath sent about three several queststo search you out. ",0.2375
+12,2,cassio,"'tis well i am found by you. i will but spend a word here in the house, and go with you. ",0.0
+12,6,othello,"ancient,  what makes he here? ",0.0
+12,3,cassio,"faith,  he to-night hath boarded a land carack:if it prove lawful prize,  he's made forever. ",0.0
+12,5,iago,i do not understand. ,0.0
+12,4,cassio,he's married. ,0.25
+12,6,iago,to who? ,0.0
+12,5,cassio,"marry,  to come,  captain,  will you go? ",0.0
+12,7,iago,holla! stand there!,0.0
+12,7,othello,here comes another troop to seek for you. ,0.0
+12,6,cassio,"it is brabantio.  general,  be advised.  he comes to bad intent. ",-0.3249999999999999
+12,8,othello,"signior,  it is the moor. ",0.0
+12,1,roderigo,"down with him,  thief!",-0.19444444444444448
+12,1,brabantio,"you,  roderigo! come,  sir,  i am for you. ",0.0
+12,8,iago,"keep up your bright swords,  for the dew will rust them.  good signior,  you shall more command with yearsthan with your weapons. ",0.6333333333333333
+12,9,othello,"o thou foul thief,  where hast thou stowed my daughter? damned as thou art,  thou hast enchanted her.  for i'll refer me to all things of sense, if she in chains of magic were not bound, whether a maid so tender,  fair,  and happy, so opposite to marriage that she shunnedthe wealthy curled darlings of our nation, would ever have,  to incur a general mock, run from her guardage to the sooty bosomof such a thing as thou,  to fear,  not to delight. judge me the world,  if 'tis not gross in sensethat thou hast practised on her with foul charms.  abused her delicate youth with drugs or mineralsthat weaken motion: i'll have't disputed on.  'tis probable,  and palpable to thinking. i therefore apprehend and do attach theefor an abuser of the world,  a practiserof arts inhibited and out of warrant.  lay hold upon him: if he do resist, subdue him at his peril. ",0.225
+12,2,brabantio,"hold your hands, both you of my inclining and the rest:were it my cue to fight,  i should have known itwithout a prompter.  where will you that i goto answer this your charge? ",0.0
+12,10,othello,to prison.   till fit timeof law and course of direct sessioncall thee to answer. ,0.25
+12,3,brabantio,"what if i do obey? how may the duke be therewith satisfied, whose messengers are here about my side, upon some present business of the state, to bring me to him? ",0.25
+12,11,othello,"'tis true,  most worthy signior.  the duke's in council,  and your noble self, i am sure,  is sent for. ",0.45666666666666667
+12,1,firstofficer,"how! the duke in council!in this time of the night! bring him away:mine's not an idle cause: the duke himself, or any of my brothers of the state, cannot but feel this wrong as 'twere their own.  for if such actions may have passage free, bond slaves and pagans shall our statesmen be. ",0.125
+12,4,brabantio,there is no composition in these newsthat gives them credit. ,0.0
+13,1,duke,and mine a hundred and forty. ,0.0
+13,2,duke,"nay,  it is possible enough to judgement:i do not so secure me in the error, but the main article i do approvein fearful sense. ",-0.06666666666666668
+13,3,duke,a messenger from the galleys. ,0.0
+13,4,duke,how say you by this change? ,0.0
+13,5,duke,"nay,  in all confidence,  he's not for rhodes. ",0.0
+13,6,duke,here is more news. ,0.5
+13,7,duke,write from us to him.   post-post-haste despatch. ,0.0
+13,8,duke,"valiant othello,  we must straight employ youagainst the general enemy ottoman.  [to brabantio. ] i did not see you.   welcome,  gentle signior.  we lacked your counsel and your help to-night. ",0.3125
+13,9,duke,"so did i yours.  good your grace,  pardon me.  neither my place,  nor aught i heard of businesshath raised me from my bed.   nor doth the general caretake hold on me.   for my particular griefis of so flood-gate and o'erbearing naturethat it engluts and swallows other sorrows, and it is still itself. ",0.19791666666666666
+13,1,brabantio,"why,  what's the matter? ",0.0
+13,10,duke,"my daughter! o,  my daughter!",0.0
+13,2,brabantio,dead? ,-0.2
+13,11,duke,"ay,  to me.  she is abused,  stol'n from me,  and corruptedby spells and medicines bought of mountebanks.  for nature so preposterously to err, being not deficient,  blind,  or lame of sense, sans witchcraft could not. ",-0.26666666666666666
+13,3,brabantio,"whoe'er he be that,  in this foul proceeding, hath thus beguiled your daughter of herself, and you of her,  the bloody book of lawyou shall yourself read in the bitter letterafter your own sense.   yea,  though our proper sonstood in your action. ",-0.04000000000000001
+13,12,duke,"humbly i thank your grace. here is the man,  this moor.   whom now,  it seems, your special mandate for the state affairshath hither brought. ",0.07857142857142857
+13,4,brabantio,we are very sorry for't. ,-0.65
+13,13,['duke' '#'],"[to othello. ] what,  in your own part,  can you say to this? ",0.6
+13,14,duke,"nothing,  but this is so. ",0.0
+13,5,brabantio,"most potent,  grave,  and reverend signiors, my very noble and approved good masters,  that i have ta'en away this old man's daughter, it is most true.   true,  i have married her:the very head and front of my offendinghath this extent,  no more.  rude am i in my speech, and little blessed with the soft phrase of peace.  for since these arms of mine had seven years' pith, till now some nine moons wasted,  they have usedtheir dearest action in the tented field.  and little of this great world can i speak, more than pertains to feats of broil and battle.  and therefore little shall i grace my causein speaking for myself.  yet,  by your gracious patience, i will a round unvarnished tale deliverof my whole course of love: what drugs,  what charms, what conjuration,  and what mighty magic,  for such proceeding i am charged withal,  i won his daughter. ",0.22375000000000003
+13,1,othello,"a maiden never bold:of spirit so still and quiet that her motionblushed at herself.   and she,  in spite of nature, of years,  of country,  credit,  everything,  to fall in love with what she feared to look on!it is judgement maimed and most imperfectthat will confess perfection so could erragainst all rules of nature.   and must be drivento find out practices of cunning hell, why this should be.  i therefore vouch again, that with some mixtures powerful o'er the blood, or with some dram conjured to this effect, he wrought upon her. ",0.26
+13,6,brabantio,to vouch this is no proof.  without more wider and more overt testthan these thin habits and poor likelihoodsof modern seeming do prefer against him. ,0.07999999999999999
+13,15,duke,"i do beseech you, send for the lady to the sagittary, and let her speak of me before her father. if you do find me foul in her report, the trust,  the office i do hold of you, not only take away,  but let your sentenceeven fall upon my life. ",0.0
+13,2,othello,fetch desdemona hither. ,0.0
+13,16,duke,"ancient,  conduct them.   you best know the place.  and,  till she come,  as truly as to heaveni do confess the vices of my blood, so justly to your grave ears i'll presenthow i did thrive in this fair lady's love, and she in mine. ",0.7333333333333334
+13,3,othello,"say it,  othello. ",0.0
+13,17,duke,"her father loved me.   oft invited me.  still questioned me the story of my life, from year to year,  the battles,  sieges,  fortunes, that i have passed. i ran it through,  even from my boyish daysto the very moment that he bade me tell it:wherein i spake of most disastrous chances, of moving accidents by flood and field.  of hair-breadth scapes i' the imminent deadly breach.  of being taken by the insolent foe, and sold to slavery.   of my redemption thence, and portance in my travels' history:wherein of antres vast and deserts idle, rough quarries,  rocks,  and hills whose heads touch heaven, it was my hint to speak,  such was the process.  and of the cannibals that each other eat, the anthropophagi,  and men whose headsdo grow beneath their shoulders.  this to hearwould desdemona seriously incline:but still the house affairs would draw her thence.  which ever as she could with haste despatch, sheed come again,  and with a greedy eardevour up my discourse.   which i observing, took once a pliant hour.   and found good meansto draw from her a prayer of earnest heartthat i would all my pilgrimage dilate, whereof by parcels she had something heard, but not intentively.   i did consent.  and often did beguile her of her tears, when i did speak of some distressful strokethat my youth suffered.  my story being done, she gave me for my pains a world of sighs:she swore,  in faith,  'twas strange,  'twas passing strange.  'twas pitiful,  'twas wondrous pitiful:she wished she had not heard it,  yet she wishedthat heaven had made her such a man: she thanked me.  and bade me,  if i had a friend that loved her, i should but teach him how to tell my story, and that would woo her.  upon this hint i spake:she loved me for the dangers i had passed.  and i loved her that she did pity them. this only is the witchcraft i have used: here comes the lady.   let her witness it. ",0.1337719298245614
+13,4,othello,"i think this tale would win my daughter too.  good brabantio, take up this mangled matter at the best. men do their broken weapons rather usethan their bare hands. ",0.43
+13,18,duke,"i pray you,  hear her speak:if she confess that she was half the wooer, destruction on my head,  if my bad blamelight on the man! come hither,  gentle mistress:do you perceive in all this noble companywhere most you owe obedience? ",0.05166666666666668
+13,7,brabantio,"my noble father, i do perceive here a divided duty:to you i am bound for life and education.  my life and education both do learn mehow to respect you.   you are the lord of duty,  i am hitherto your daughter: but here's my husband.  and so much duty as my mother showedto you,  preferring you before her father, so much i challenge that i may professdue to the moor,  my lord. ",0.3333333333333333
+13,1,desdemona,"god be with you! i have done.  please it your grace,  on to the state affairs:i had rather to adopt a child than get it.  come hither,  moor:i here do give thee that with all my heartwhich,  but thou hast already,  with all my hearti would keep from thee.  for your sake,  jewel, i am glad at soul i have no other child.  for thy escape would teach me tyranny, to hang clogs on them.  i have done,  my lord. ",0.28125
+13,8,brabantio,"let me speak like yourself.   and lay a sentencewhich,  as a grise or step,  may help these loversinto your favour. when remedies are past,  the griefs are endedby seeing the worst,  which late on hopes depended. to mourn a mischief that is past and goneis the next way to draw new mischief on. what cannot be preserved when fortune takes, patience her injury a mockery makes. the robbed that smiles steals something from the thief.  he robs himself that spends a bootless grief. ",-0.35194805194805195
+13,19,duke,"so let the turk of cyprus us beguile.  we lose it not so long as we can smile.  he bears the sentence well,  that nothing bearsbut the free comfort which from thence he hears.  but he bears both the sentence and the sorrowthat,  to pay grief,  must of poor patience borrow. these sentences,  to sugar or to gall, being strong on both sides,  are equivocal:but words are words.   i never yet did hearthat the bruised heart was pierced through the ear.  i humbly beseech you,  proceed to the affairs of state. ",-0.04523809523809525
+13,9,brabantio,"the turk with a most mighty preparation makes for cyprus.  othello,  the fortitude of the place is best known to you.   andthough we have there a substitute of most allowed sufficiency, yet opinion,  a sovereign mistress of effects,  throws a more safervoice on you: you must therefore be content to slubber the glossof your new fortunes with this more stubborn and boisterousexpedition. ",0.5051948051948052
+13,20,duke,"the tyrant custom,  most grave senators, hath made the flinty and steel couch of warmy thrice-driven bed of down: i do agnizea natural and prompt alacrityi find in hardness.   and do undertakethese present wars against the ottomites. most humbly,  therefore,  bending to your state, i crave fit disposition for my wife.  due reference of place and exhibition.  with such accommodation and besortas levels with her breeding. ",0.1132716049382716
+13,5,othello,"if you please, be't at her father's. ",0.0
+13,21,duke,i'll not have it so. ,0.0
+13,10,brabantio,nor i. ,0.0
+13,6,othello,"nor i.  i would not there reside, to put my father in impatient thoughts, by being in his eye.  most gracious duke, to my unfolding lend your prosperous ear.  and let me find a charter in your voiceto assist my simpleness. ",0.15
+13,2,desdemona,"what would you,  desdemona? ",0.0
+13,22,duke,"that i did love the moor to live with him, my downright violence and storm of fortunesmay trumpet to the world: my heart's subduedeven to the very quality of my lord:i saw othello's visage in his mind.  and to his honors and his valiant partsdid i my soul and fortunes consecrate. so that,  dear lords,  if i be left behind, a moth of peace,  and he go to the war, the rites for which i love him are bereft me, and i a heavy interim shall supportby his dear absence.  let me go with him. ",0.09048295454545455
+13,3,desdemona,"let her have your voices. vouch with me,  heaven,  i therefore beg it notto please the palate of my appetite.  nor to comply with heat,  the young affectsin me defunct,  and proper satisfaction.  but to be free and bounteous to her mind:and heaven defend your good souls,  that you thinki will your serious and great business scantfor she is with me: no,  when light-winged toysof feathered cupid seel with wanton dullnessmy speculative and officed instruments, that my disports corrupt and taint my business, let housewives make a skillet of my helm, and all indign and base adversitiesmake head against my estimation!",0.020833333333333343
+13,7,othello,"be it as you shall privately determine, either for her stay or going: the affair cries haste, and speed must answer it.  ",0.0
+13,23,duke,with all my heart. ,0.0
+13,8,othello,"at nine i' the morning here we'll meet again.  othello,  leave some officer behind, and he shall our commission bring to you.  with such things else of quality and respectas doth import you. ",-0.2
+13,24,duke,"so please your grace,  my ancient,  a man he is of honesty and trust,  to his conveyance i assign my wife, with what else needful your good grace shall thinkto be sent after me. ",0.7
+13,9,othello,"let it be so.  good night to everyone.  [to brabantio. ] and,  noble signior, if virtue no delighted beauty lack, your son-in-law is far more fair than black. ",0.2976190476190476
+13,25,duke,"look to her,  moor,  if thou hast eyes to see:she has deceived her father,  and may thee. ",0.0
+13,11,brabantio,"my life upon her faith! honest iago, my desdemona must i leave to thee:i pr'ythee,  let thy wife attend on her.  and bring them after in the best advantage.  come,  desdemona,  i have but an hourof love,  of worldly matters and direction, to spend with thee: we must obey the time. ",0.7000000000000001
+13,10,othello,"iago,  ",0.0
+13,1,roderigo,"what say'st thou,  noble heart? ",0.6
+13,1,iago,"what will i do,  thinkest thou? ",0.0
+13,2,roderigo,"why,  go to bed and sleep. ",0.0
+13,2,iago,i will incontinently drown myself. ,0.0
+13,3,roderigo,"if thou dost,  i shall never love thee after.  why,  thou sillygentleman!",-0.3125
+13,3,iago,it is silliness to live when to live is torment.   and thenhave we a prescription to die when death is our physician. ,0.13636363636363635
+13,4,roderigo,"o villainous! i have looked upon the world for four times sevenyears,  and since i could distinguish betwixt a benefit and aninjury,  i never found man that knew how to love himself.  ere iwould say i would drown myself for the love of a guinea-hen,  iwould change my humanity with a baboon. ",0.5
+13,4,iago,"what should i do?  i confess it is my shame to be so fond, but it is not in my virtue to amend it. ",0.0
+13,5,roderigo,"virtue! a fig! 'tis in ourselves that we are thus or thus. our bodies are gardens,  to the which our wills are gardeners.  so that if we will plant nettles or sow lettuce,  set hyssop andweed up thyme,  supply it with one gender of herbs or distract itwith many,  either to have it sterile with idleness or manuredwith industry.   why,  the power and corrigible authority of thislies in our wills.  if the balance of our lives had not one scaleof reason to poise another of sensuality,  the blood and basenessof our natures would conduct us to most preposterous conclusions:but we have reason to cool our raging motions,  our carnal stings, our unbitted lusts.   whereof i take this,  that you call love,  tobe a sect or scion. ",0.4625
+13,5,iago,it cannot be. ,0.0
+13,6,roderigo,"it is merely a lust of the blood and a permission of the will. come,  be a man: drown thyself! drown cats and blind puppies.  ihave professed me thy friend,  and i confess me knit tothy deserving with cables of perdurable toughness.   i couldnever better stead thee than now.  put money in thy purse.   followthou the wars.   defeat thy favour with an usurped beard.   i say, put money in thy purse.  it cannot be that desdemona should longcontinue her love to the moor,  put money in thy purse,  nor hehis to her: it was a violent commencement,  and thou shalt see ananswerable sequestration.   put but money in thy purse.  thesemoors are changeable in their wills: fill thy purse with money:the food that to him now is as luscious as locusts shall be tohim shortly as acerb as the coloquintida.  she must change foryouth: when she is sated with his body,  she will find the errorof her choice: she must have change,  she must: therefore putmoney in thy purse.  if thou wilt needs damn thyself,  do it amore delicate way than drowning.  make all the money thou canst.  if sanctimony and a frail vow betwixt an erring barbarian and asupersubtle venetian be not too hard for my wits and all thetribe of hell,  thou shalt enjoy her.   therefore make money.  a poxof drowning thyself! it is clean out of the way: seek thou ratherto be hanged in compassing thy joy than to be drowned and gowithout her. ",-0.0035714285714285687
+13,6,iago,"wilt thou be fast to my hopes,  if i depend on the issue? ",0.2
+13,7,roderigo,"thou art sure of me: go,  make money: i have told theeoften,  and i re-tell thee again and again,  i hate the moor: mycause is hearted.   thine hath no less reason.  let us beconjunctive in our revenge against him: if thou canst cuckoldhim,  thou dost thyself a pleasure,  me a sport.  there are manyevents in the womb of time which will be delivered.  traverse.   go.  provide thy money.  we will have more of this to-morrow.  adieu. ",0.07083333333333332
+13,7,iago,where shall we meet i' the morning? ,0.0
+13,8,roderigo,at my lodging. ,0.0
+13,8,iago,i'll be with thee betimes. ,0.0
+13,9,roderigo,"go to.   farewell.  do you hear,  roderigo? ",0.0
+13,9,iago,what say you? ,0.0
+13,10,roderigo,"no more of drowning,  do you hear? ",-0.25
+13,10,iago,i am changed: i'll go sell all my land. ,0.0
+13,11,roderigo,"thus do i ever make my fool my purse.  for i mine own gained knowledge should profaneif i would time expend with such a snipebut for my sport and profit.  i hate the moor.  and it is thought abroad that 'twixt my sheetshe has done my office: i know not if't be true.  but i,  for mere suspicion in that kind, will do as if for surety.  he holds me well, the better shall my purpose work on him. cassio's a proper man: let me see now.  to get his place,  and to plume up my willin double knavery,  how,  how?  let's see: after some time,  to abuse othello's earthat he is too familiar with his wife: he hath a person,  and a smooth dispose, to be suspected.   framed to make women false. the moor is of a free and open nature, that thinks men honest that but seem to be so.  and will as tenderly be led by the noseas asses are. i have't.   it is engendered: hell and nightmust bring this monstrous birth to the world's light. ",0.1578125
+13,11,iago,what from the cape can you discern at sea? ,0.0
+1,1,montano,"methinks the wind hath spoke aloud at land.  a fuller blast ne'er shook our battlements:if it hath ruffianed so upon the sea, what ribs of oak,  when mountains melt on them, can hold the mortise?  what shall we hear of this? ",0.0
+1,2,montano,"if that the turkish fleetbe not ensheltered and embayed,  they are drowned.  it is impossible to bear it out. ",-0.3833333333333333
+1,3,montano,how! is this true? ,0.35
+1,4,montano,i am glad on't.   'tis a worthy governor. ,0.41666666666666663
+1,5,montano,"pray heavens he be.  for i have served him,  and the man commandslike a full soldier.  let's to the sea-side,  ho!as well to see the vessel that's come inas to throw out our eyes for brave othello, even till we make the main and the aerial bluean indistinct regard. ",0.4388888888888889
+1,6,montano,"thanks you,  the valiant of this warlike isle, that so approve the moor! o,  let the heavensgive him defence against the elements, for i have lost him on a dangerous sea!",-0.25
+21,1,cassio,is he well shipped? ,0.0
+1,7,montano,"his bark is stoutly timbered,  and his pilotof very expert and approved allowance.  therefore my hopes,  not surfeited to death, stand in bold cure. within. ] a sail,  a sail,  a sail![enter a fourth gentleman. ][",0.17777777777777778
+21,2,cassio,what noise? ,0.0
+21,3,cassio,my hopes do shape him for the governor. [guns within. ],0.0
+21,4,cassio,"i pray you,  sir,  go forth, and give us truth who 'tis that is arrived. ",0.0
+21,5,cassio,"but,  good lieutenant,  is your general wived? ",0.375
+1,8,montano,"most fortunately: he hath achieved a maidthat paragons description and wild fame, one that excels the quirks of blazoning pens, and in the essential vesture of creationdoes tire the ingener.  how now! who has put in? ",0.25
+21,6,cassio,"he has had most favourable and happy speed:tempests themselves,  high seas,  and howling winds, the guttered rocks,  and congregated sands,  traitors ensteeped to clog the guiltless keel,  as having sense of beauty,  do omittheir mortal natures,  letting go safely bythe divine desdemona. ",0.49
+21,7,cassio,what is she? ,0.0
+1,9,montano,"she that i spake of,  our great captain's captain, left in the conduct of the bold iago.  whose footing here anticipates our thoughtsa se'nnight's speed.  great jove,  othello guard, and swell his sail with thine own powerful breath, that he may bless this bay with his tall ship, make love's quick pants in desdemona's arms, give renewed fire to our extincted spirits, and bring all cyprus comfort! o,  behold, the riches of the ship is come on shore!ye men of cyprus,  let her have your knees.  hall to thee,  lady! and the grace of heaven, before,  behind thee,  and on every hand, enwheel thee round!",0.3204166666666666
+21,8,cassio,"i thank you,  valiant cassio. what tidings can you tell me of my lord? ",0.0
+21,1,desdemona,"he is not yet arrived nor know i aughtbut that he's well,  and will be shortly here. ",0.0
+21,9,cassio,"o,  but i fear how lost you company? ",0.0
+21,2,desdemona,"the great contention of the sea and skiesparted our fellowship: but,  hark! a sail. ",1.0
+21,10,cassio,"see for the news. good ancient,  you are welcome: [to emilia. ] welcome,  mistress: let it not gall your patience,  good iago, that i extend my manners.   'tis my breedingthat gives me this bold show of courtesy. ",0.4305555555555556
+21,11,cassio,"sir,  would she give you so much of her lipsas of her tongue she oft bestows on me, youed have enough. ",0.1
+21,1,iago,"alas,  she has no speech. ",-0.4
+21,3,desdemona,"in faith,  too much.  i find it still when i have list to sleep:marry,  before your ladyship,  i grant, she puts her tongue a little in her heart, and chides with thinking. ",0.0062500000000000056
+21,2,iago,you have little cause to say so. ,-0.1875
+21,1,emilia,"come on,  come on.   you are pictures out of doors, bells in your parlours,  wild cats in your kitchens, saints in your injuries,  devils being offended, players in your housewifery,  and housewives in your beds. ",0.1
+21,3,iago,"o,  fie upon thee,  slanderer!",0.0
+21,4,desdemona,"nay,  it is true,  or else i am a turk:you rise to play,  and go to bed to work. ",0.35
+21,4,iago,you shall not write my praise. ,0.0
+21,2,emilia,"no,  let me not. ",0.0
+21,5,iago,"what wouldst thou write of me,  if thou shouldst praise me? ",0.0
+21,5,desdemona,"o gentle lady,  do not put me to't.  for i am nothing if not critical. ",0.1
+21,6,iago,"come on,  assay there's one gone to the harbor? ",0.0
+21,6,desdemona,"ay,  madam. ",0.0
+21,7,iago,"i am not merry.   but i do beguilethe thing i am,  by seeming otherwise.  come,  how wouldst thou praise me? ",0.0
+21,7,desdemona,"i am about it.   but,  indeed,  my inventioncomes from my pate as birdlime does from frize,  it plucks out brains and all: but my muse labours, and thus she is delivered. if she be fair and wise,  fairness and wit, the one's for use,  the other useth it. ",0.425
+21,8,iago,well praised! how if she be black and witty? ,0.16666666666666669
+21,8,desdemona,"if she be black,  and thereto have a wit, she'll find a white that shall her blackness fit. ",0.07777777777777779
+21,9,iago,worse and worse. ,-0.4
+21,9,desdemona,how if fair and foolish? ,0.7
+21,3,emilia,she never yet was foolish that was fair.  for even her folly helped her to an heir. ,0.7
+21,10,iago,these are old fond paradoxes to make fools laugh i' thealehouse.  what miserable praise hast thou for her that's fouland foolish? ,-0.19999999999999998
+21,10,desdemona,"there's none so foul and foolish thereunto, but does foul pranks which fair and wise ones do. ",0.7
+21,11,iago,"o heavy ignorance! thou praisest the worst best.  but whatpraise couldst thou bestow on a deserving woman indeed,  onethat,  in the authority of her merit,  did justly put on the vouchof very malice itself? ",0.11000000000000001
+21,11,desdemona,"she that was ever fair and never proud.  had tongue at will and yet was never loud.  never lacked gold and yet went never gay.  fled from her wish,  and yet said,  ""now i may"".  she that,  being angered,  her revenge being nigh, bade her wrong stay and her displeasure fly.  she that in wisdom never was so frailto change the cod's head for the salmon's tail.  she that could think and ne'er disclose her mind.  see suitors following and not look behind.  she was a wight,  if ever such wight were.   ",-0.08083333333333334
+21,12,iago,to do what? ,0.0
+21,12,desdemona,to suckle fools and chronicle small beer. ,-0.25
+21,13,iago,"o most lame and impotent conclusion! do not learn of him, emilia,  though he be thy husband.  how say you,  cassio?  is henot a most profane and liberal counsellor? ",0.125
+21,13,desdemona,"he speaks home,  madam: you may relish him more in thesoldier than in the scholar. ",0.5
+21,12,cassio,"[aside. ] he takes her by the palm: ay,  well said,  whisper:with as little a web as this will i ensnare as great a fly ascassio.  ay,  smile upon her,  do.   i will gyve thee in thine owncourtship.  you say true.   'tis so,  indeed: if such tricks asthese strip you out of your lieutenantry,  it had been better youhad not kissed your three fingers so oft,  which now again you aremost apt to play the sir in.  very good.   well kissed! an excellentcourtesy! 'tis so,  indeed.  yet again your fingers to your lips? would they were clyster-pipes for your sake![trumpet within. ] the moor! i know his trumpet. ",0.46249999999999997
+21,14,iago,'tis truly so. ,0.0
+21,13,cassio,"let's meet him,  and receive him. ",0.0
+21,14,desdemona,"lo,  where he comes!",0.0
+21,14,cassio,o my fair warrior!,0.875
+21,1,othello,my dear othello!,0.0
+21,15,desdemona,"it gives me wonder great as my contentto see you here before me.  o my soul's joy!if after every tempest come such calms, may the winds blow till they have wakened death!and let the laboring bark climb hills of seasolympus-high,  and duck again as lowas hell's from heaven! if it were now to die, 'twere now to be most happy.   for,  i fear, my soul hath her content so absolutethat not another comfort like to thissucceeds in unknown fate. ",0.4
+21,2,othello,the heavens forbidbut that our loves and comforts should increaseeven as our days do grow!,0.0
+21,16,desdemona,"amen to that,  sweet powers! i cannot speak enough of this content.  it stops me here.   it is too much of joy:and this,  and this,  the greatest discords bethat e'er our hearts shall make!",0.409375
+21,3,othello,"[aside. ] o,  you are well tuned now!but i'll set down the pegs that make this music, as honest as i am. ",0.2222222222222222
+21,15,iago,"come,  let us to the castle.  news,  friends.   our wars are done,  the turks are drowned. how does my old acquaintance of this isle? honey,  you shall be well desired in cyprus.  i have found great love amongst them.  o my sweet, i prattle out of fashion,  and i dotein mine own comforts.  i pry'thee,  good iago, go to the bay and disembark my coffers:bring thou the master to the citadel.  he is a good one,  and his worthinessdoes challenge much respect.  come,  desdemona, once more well met at cyprus. ",0.43500000000000005
+21,4,othello,"do thou meet me presently at the harbour.  come hither.  if thoube'st valiant,  as,  they say,  base men being in love have then anobility in their natures more than is native to them,  list me. the lieutenant to-night watches on the court of guard: first,  imust tell thee this desdemona is directly in love with him. ",0.15833333333333333
+21,16,iago,"with him! why,  'tis not possible. ",0.0
+21,1,roderigo,"lay thy finger thus,  and let thy soul be instructed.  mark mewith what violence she first loved the moor,  but for bragging, and telling her fantastical lies: and will she love him still forprating?  let not thy discreet heart think it.  her eye must befed.   and what delight shall she have to look on the devil?  whenthe blood is made dull with the act of sport,  there shouldbe,  again to inflame it and to give satiety a fresh appetite,  loveliness in favour.   sympathy in years,  manners,  and beauties.  all which the moor is defective in: now,  for want of theserequired conveniences,  her delicate tenderness will find itselfabused,  begin to heave the gorge,  disrelish and abhor the moor.  very nature will instruct her in it,  and compel her to somesecond choice.  now sir,  this granted.   as it is a most pregnantand unforced position,  who stands so eminently in the degree ofthis fortune as cassio does?  a knave very voluble.   no furtherconscionable than in putting on the mere form of civil andhumane seeming,  for the better compass of his salt and mosthidden loose affection?  why,  none.   why,  none.   a slipper andsubtle knave.   a finder out of occasions.   that has an eye canstamp and counterfeit advantages,  though true advantage neverpresent itself: a devilish knave! besides,  the knave ishandsome,  young,  and hath all those requisites in him that follyand green minds look after: a pestilent complete knave.   and thewoman hath found him already. ",0.151181891025641
+21,17,iago,i cannot believe that in her.   she is full of most blessedcondition. ,0.425
+21,2,roderigo,"blest fig's end! the wine she drinks is made of grapes: ifshe had been blessed,  she would never have loved the moor:blessed pudding! didst thou not see her paddle with the palm ofhis hand?  didst not mark that? ",0.875
+21,18,iago,"yes,  that i did.   but that was but courtesy. ",0.0
+21,3,roderigo,"lechery,  by this hand.   an index and obscure prologue to thehistory of lust and foul thoughts.  they met so near with theirlips that their breaths embraced together.  villainous thoughts, roderigo! when these mutualities so marshal the way,  hard athand comes the master and main exercise,  the incorporateconclusion: pish! but,  sir,  be you ruled by me: i have broughtyou from venice.  watch you to-night: for the command,  i'll lay'tupon you: cassio knows you not: i'll not be far from you: do youfind some occasion to anger cassio,  either by speaking too loud, or tainting his discipline,  or from what other course youplease,  which the time shall more favourably minister. ",-0.010416666666666671
+21,19,iago,well. ,0.0
+21,4,roderigo,"sir,  he is rash,  and very sudden in choler,  and haply with histruncheon may strike at you: provoke him,  that he may.   for evenout of that will i cause these of cyprus to mutiny,  whosequalification shall come into no true taste again but by thedisplanting of cassio.  so shall you have a shorter journey toyour desires by the means i shall then have to prefer them.   andthe impediment most profitably removed,  without the which therewere no expectation of our prosperity. ",0.10833333333333334
+21,20,iago,"i will do this,  if i can bring it to any opportunity. ",0.0
+21,5,roderigo,i warrant thee.  meet me by and by at the citadel: i mustfetch his necessaries ashore.  farewell. ,0.0
+21,21,iago,adieu. ,0.0
+21,6,roderigo,"that cassio loves her,  i do well believe it.  that she loves him,  'tis apt,  and of great credit:the moor,  howbeit that i endure him not,  is of a constant,  loving,  noble nature.  and,  i dare think,  he'll prove to desdemonaa most dear husband.  now,  i do love her too.  not out of absolute lust,  though,  peradventure, i stand accountant for as great a sin,  but partly led to diet my revenge, for that i do suspect the lusty moorhath leaped into my seat: the thought whereofdoth,  like a poisonous mineral,  gnaw my inwards.  and nothing can or shall content my soultill i am evened with him,  wife for wife.  or,  failing so,  yet that i put the moorat least into a jealousy so strongthat judgement cannot cure.  which thing to do,  if this poor trash of venice,  whom i trashfor his quick hunting,  stand the putting on, i'll have our michael cassio on the hip.  abuse him to the moor in the rank garb,  for i fear cassio with my night-cap too.   make the moor thank me,  love me,  and reward mefor making him egregiously an assand practicing upon his peace and quieteven to madness.  'tis here,  but yet confused:knavery's plain face is never seen till used. ",0.247936507936508
+21,22,iago,"it is othello's pleasure,  our noble and valiant general, that upon certain tidings now arrived,  importing the mereperdition of the turkish fleet,  every man put himself intotriumph.   some to dance,  some to make bonfires,  each man towhat sport and revels his addiction leads him: for,  besides thesebeneficial news,  it is the celebration of his nuptial: somuch was his pleasure should be proclaimed.  all offices are open.  and there is full liberty of feasting from this present hour offive till the bell have told eleven.  heaven bless the isle ofcyprus and our noble general othello!",0.2345982142857143
+22,1,herald,"good michael,  look you to the guard to-night:let's teach ourselves that honourable stop, not to out-sport discretion. ",0.7
+23,1,othello,"iago hath direction what to do.  but,  notwithstanding,  with my personal eyewill i look to't. ",0.0
+23,1,cassio,"iago is most honest. michael,  good night: to-morrow with your earliestlet me have speech with you.  [to desdemona] come,  my dear love,  the purchase made,  the fruits are to ensue.  that profit's yet to come 'tween me and you.  good-night. ",0.575
+23,2,othello,"welcome,  iago.   we must to the watch. ",0.8
+23,2,cassio,"not this hour,  lieutenant.   'tis not yet ten o' the clock. our general cast us thus early for the love of his desdemona.   wholet us not therefore blame: he hath not yet made wanton the nightwith her.   and she is sport for jove. ",0.1625
+23,1,iago,she's a most exquisite lady. ,0.75
+23,3,cassio,"and,  i'll warrant her,  full of game. ",-0.025000000000000022
+23,2,iago,"indeed,  she is a most fresh and delicate creature. ",0.16666666666666666
+23,4,cassio,what an eye she has! methinks it sounds a parley to provocation. ,0.0
+23,3,iago,an inviting eye.   and yet methinks right modest. ,0.19285714285714284
+23,5,cassio,"and when she speaks,  is it not an alarm to love? ",0.5
+23,4,iago,"she is,  indeed,  perfection. ",0.0
+23,6,cassio,"well,  happiness to their sheets! come,  lieutenant,  i have astoup of wine.   and here without are a brace of cyprus gallantsthat would fain have a measure to the health of black othello. ",0.3541666666666667
+23,5,iago,"not to-night,  good iago: i have very poor and unhappybrains for drinking: i could well wish courtesy would invent someother custom of entertainment. ",0.08999999999999997
+23,7,cassio,"o,  they are our friends.   but one cup: i'll drink for you. ",0.0
+23,6,iago,"i have drunk but one cup to-night,  and that was craftilyqualified too,  and behold,  what innovation it makes here: i amunfortunate in the infirmity,  and dare not task my weaknesswith any more. ",0.0
+23,8,cassio,"what,  man! 'tis a night of revels: the gallants desire it. ",0.0
+23,7,iago,where are they? ,0.0
+23,9,cassio,"here at the door.   i pray you,  call them in. ",0.0
+23,8,iago,i'll do't.   but it dislikes me. ,0.0
+23,10,cassio,"if i can fasten but one cup upon him, with that which he hath drunk to-night already, he'll be as full of quarrel and offenseas my young mistress' dog.  now,  my sick fool roderigo, whom love hath turned almost the wrong side out, to desdemona hath to-night carousedpotations pottle-deep.   and he's to watch:three lads of cyprus,  noble swelling spirits, that hold their honours in a wary distance, the very elements of this warlike isle,  have i to-night flustered with flowing cups, and they watch too.  now,  'mongst this flock of drunkards, am i to put our cassio in some actionthat may offend the isle: but here they come:if consequence do but approve my dream, my boat sails freely,  both with wind and stream. ",-0.006428571428571434
+23,9,iago,"'fore heaven,  they have given me a rouse already. ",0.0
+23,11,cassio,"good faith,  a little one.   not past a pint,  as i am a soldier. ",0.2125
+23,1,montano,"some wine,  ho!""and let me the canakin clink,  clink.  and let me the canakin clink.   a soldier's a man.    o,  man's life's but a span.  why then let a soldier drink. ""some wine,  boys!",0.0
+23,10,iago,"'fore god,  an excellent song. ",1.0
+23,12,cassio,"i learned it in england,  where,  indeed,  they are mostpotent in potting: your dane,  your german,  and your swag-belliedhollander,  drink,  ho! are nothing to your english. ",0.0
+23,11,iago,is your englishman so expert in his drinking? ,0.0
+23,13,cassio,"why,  he drinks you,  with facility,  your dane dead drunk.   hesweats not to overthrow your almain.   he gives your hollandera vomit ere the next pottle can be filled. ",-0.07499999999999998
+23,12,iago,to the health of our general!,0.06250000000000003
+23,14,cassio,"i am for it,  lieutenant.   and i'll do you justice. ",0.0
+23,2,montano,"o sweet england![sings. ]""king stephen was and a worthy peer,   his breeches cost him but a crown.  he held them sixpence all too dear,   with that he called the tailor lown. he was a wight of high renown,   and thou art but of low degree:'tis pride that pulls the country down.    then take thine auld cloak about thee. ""some wine,  ho!",0.12977777777777777
+23,13,iago,"why,  this is a more exquisite song than the other. ",0.4583333333333333
+23,15,cassio,will you hear it again? ,0.0
+23,14,iago,"no.   for i hold him to be unworthy of his place that doesthose things.  well,  god's above all,  and there be souls mustbe saved,  and there be souls must not be saved. ",0.0
+23,16,cassio,"it's true,  good lieutenant. ",0.5249999999999999
+23,15,iago,"for mine own part,  no offence to the general,  nor anyman of quality,  i hope to be saved. ",0.325
+23,17,cassio,"and so do i too,  lieutenant. ",0.0
+23,16,iago,"ay,  but,  by your leave,  not before me.   the lieutenant is tobe saved before the ancient.  let's have no more of this.  let's to our affairs.  forgive us our sins! gentlemen,  let'slook to our business.  do not think,  gentlemen,  i am drunk: thisis my ancient.   this is my right hand,  and this is my left: i amnot drunk now.   i can stand well enough,  and i speak well enough. ",-0.14668367346938777
+23,18,cassio,"why,  very well then: you must not think,  then,  that i am drunk. ",-0.15
+23,19,cassio,"what's the matter,  lieutenant? ",0.0
+23,3,montano,"you see this fellow that is gone before.   he is a soldier fit to stand by caesarand give direction: and do but see his vice.  'tis to his virtue a just equinox, the one as long as the other: 'tis pity of him. i fear the trust othello puts him in, on some odd time of his infirmity, will shake this island. ",-0.008333333333333326
+23,17,iago,but is he often thus? ,0.0
+23,4,montano,'tis evermore the prologue to his sleep:he'll watch the horologe a double setif drink rock not his cradle. ,0.0
+23,18,iago,"it were wellthe general were put in mind of it. perhaps he sees it not,  or his good natureprizes the virtue that appears in cassio, and looks not on his evils: is not this true? ",0.3666666666666667
+23,5,montano,"[aside to him. ] how now,  roderigo!i pray you,  after the lieutenant.   go. ",0.0
+23,19,iago,and 'tis great pity that the noble moorshould hazard such a place as his own secondwith one of an ingraft infirmity:it were an honest action to sayso to the moor. ,0.37142857142857144
+23,6,montano,"not i,  for this fair island.  i do love cassio well.   and would do muchto cure him of this evil.  but,  hark! what noise? ",0.06666666666666665
+23,20,iago,you rogue! you rascal!,0.0
+23,7,montano,a knave teach me my duty! i'll beat the knave intoa twiggen bottle. ,0.0
+23,20,cassio,beat me!,0.0
+23,1,roderigo,"dost thou prate,  rogue?  [striking roderigo. ]",0.5
+23,21,cassio,"nay,  good lieutenant.   i pray you,  sir,  hold your hand. ",0.7
+23,8,montano,"let me go,  sir,  or i'll knock you o'er the mazard. ",0.0
+23,22,cassio,drunk!,-0.625
+23,23,cassio,"[aside to roderigo. ] away,  i say! go out and cry a mutiny. [exit roderigo. ] nay,  good lieutenant,  alas, ,  gentlemen: help,  ho! lieutenant,  sir,  montano,  sir: help,  masters! here's a goodly watch indeed!who's that that rings the bell?  diablo,  ho!the town will rise: god's will,  lieutenant,  hold.  you will be shamed forever. ",0.2583333333333333
+23,21,iago,what is the matter here? ,0.0
+23,3,othello,"zounds,  i bleed still.   i am hurt to the death. ",0.0
+23,9,montano,"hold,  for your lives!",0.0
+23,4,othello,"hold,  ho! lieutenant,  sir,  montano,  gentlemen,  have you forgot all sense of place and duty? hold! the general speaks to you.   hold,  hold,  for shame!",0.06250000000000003
+23,22,iago,"why,  how now,  ho! from whence ariseth this? are we turned turks,  and to ourselves do thatwhich heaven hath forbid the ottomites? for christian shame,  put by this barbarous brawl:he that stirs next to carve for his own rageholds his soul light.   he dies upon his motion.  silence that dreadful bell.   it frights the islefrom her propriety.  what is the matter,  masters?  honest iago,  that look'st dead with grieving, speak,  who began this?  on thy love,  i charge thee. ",0.09999999999999999
+23,5,othello,"i do not know: friends all but now,  even now, in quarter,  and in terms like bride and groomdevesting them for bed.   and then,  but now as if some planet had unwitted men,  swords out,  and tilting one at other's breastin opposition bloody.  i cannot speakany beginning to this peevish odds.  and would in action glorious i had lostthose legs that brought me to a part of it!",-0.30000000000000004
+23,23,iago,"how comes it,  michael,  you are thus forgot? ",0.0
+23,6,othello,"worthy montano,  you were wont be civil.  the gravity and stillness of your youththe world hath noted,  and your name is greatin mouths of wisest censure: what's the matter, that you unlace your reputation thus, and spend your rich opinion for the nameof a night-brawler?  give me answer to it. ",0.35416666666666663
+23,7,othello,"worthy othello,  i am hurt to danger:your officer,  iago,  can inform you,  while i spare speech,  which something now offends me,  of all that i do know: nor know i aughtby me that's said or done amiss this night:unless self-charity be sometimes a vice, and to defend ourselves it be a sinwhen violence assails us. ",0.3333333333333333
+23,10,montano,"now,  by heaven, my blood begins my safer guides to rule.  and passion,  having my best judgement collied, assays to lead the way.  if i once stir, or do but lift this arm,  the best of youshall sink in my rebuke.  give me to knowhow this foul rout began,  who set it on.  and he that is approved in this offense, though he had twinned with me,  both at a birth, shall lose me.  what! in a town of waryet wild,  the people's hearts brimful of fear, to manage private and domestic quarrel, in night,  and on the court and guard of safety!'tis monstrous.  iago,  who began't? ",0.42000000000000004
+23,8,othello,"if partially affined,  or leagued in office, thou dost deliver more or less than truth, thou art no soldier. ",0.07777777777777779
+23,11,montano,"touch me not so near:i had rather have this tongue cut from my mouththan it should do offence to michael cassio.  yet,  i persuade myself,  to speak the truthshall nothing wrong him.  thus it is,  general. montano and myself being in speech, there comes a fellow crying out for help.  and cassio following him with determined sword, to execute upon him.  sir,  this gentlemansteps in to cassio and entreats his pause:myself the crying fellow did pursue, lest by his clamour,  as it so fell out,  the town might fall in fright: he,  swift of foot, outran my purpose.   and i returned the ratherfor that i heard the clink and fall of swords, and cassio high in oath.   which till to-nighti ne'er might say before.  when i came back,  for this was brief,  i found them close together, at blow and thrust.   even as again they werewhen you yourself did part them. more of this matter cannot i report.   but men are men.   the best sometimes forget: though cassio did some little wrong to him,  as men in rage strike those that wish them best,  yet surely cassio,  i believe,  receivedfrom him that fled some strange indignity, which patience could not pass. ",0.10483333333333333
+23,24,iago,"i know,  iago, thy honesty and love doth mince this matter, making it light to cassio.  cassio,  i love thee.  but never more be officer of mine.  look,  if my gentle love be not raised up! i'll make thee an example. ",0.32916666666666666
+23,9,othello,what's the matter? ,0.0
+23,10,othello,"what,  are you hurt,  lieutenant? ",0.0
+23,25,iago,"ay,  past all surgery. ",-0.25
+23,24,cassio,"marry,  heaven forbid!",0.0
+23,26,iago,"reputation,  reputation,  reputation! o,  i have lost myreputation! i have lost the immortal part of myself,  and whatremains is bestial.  my reputation,  iago,  my reputation!",0.0
+23,25,cassio,"as i am an honest man,  i thought you had received some bodily wound.   there is more sense in that than in reputation. reputation is an idle and most false imposition.   oft got withoutmerit and lost without deserving: you have lost no reputation atall,  unless you repute yourself such a loser.  what,  man! thereare ways to recover the general again: you are but now cast inhis mood,  a punishment more in policy than in malice.   even so asone would beat his offenceless dog to affright an imperious lion:sue to him again,  and he is yours. ",0.26111111111111107
+23,27,iago,"i will rather sue to be despised than to deceive so good acommander with so slight,  so drunken,  and so indiscreet anofficer.  drunk?  and speak parrot?  and squabble?  swagger? swear?  and discourse fustian with one's own shadow?  o thouinvisible spirit of wine,  if thou hast no name to be known by, let us call thee devil!",0.19583333333333333
+23,26,cassio,what was he that you followed with your sword?  what had he doneto you? ,0.0
+23,28,iago,i know not. ,0.0
+23,27,cassio,is't possible? ,0.0
+23,29,iago,"i remember a mass of things,  but nothing distinctly.   a quarrel, but nothing wherefore.  o god,  that men should put an enemy intheir mouths to steal away their brains! that we should,  withjoy,  pleasance,  revel,  and applause,  transform ourselves intobeasts!",0.46875
+23,28,cassio,"why,  but you are now well enough: how came you thus recovered? ",0.0
+23,30,iago,"it hath pleased the devil drunkenness to give place to thedevil wrath: one unperfectness shows me another,  to make mefrankly despise myself. ",0.5
+23,29,cassio,"come,  you are too severe a moraler: as the time,  the place,  andthe condition of this country stands,  i could heartily wishthis had not befallen.   but since it is as it is,  mend it foryour own good. ",0.6499999999999999
+23,31,iago,"i will ask him for my place again.   he shall tell me i am adrunkard! had i as many mouths as hydra,  such an answer wouldstop them all.  to be now a sensible man,  by and by a fool, and presently a beast! o strange! every inordinate cup isunblessed,  and the ingredient is a devil. ",0.109375
+23,30,cassio,"come,  come,  good wine is a good familiar creature,  if it bewell used: exclaim no more against it.  and,  good lieutenant, i think you think i love you. ",0.4541666666666666
+23,32,iago,"i have well approved it,  sir.  i drunk!",-0.625
+23,31,cassio,"you,  or any man living,  may be drunk at a time,  man.  i'll tellyou what you shall do.  our general's wife is now the general.   i may say so in this respect,  for that he hath devoted andgiven up himself to the contemplation,  mark,  and denotementof her parts and graces: confess yourself freely to her.  importune her help to put you in your place again: she is ofso free,  so kind,  so apt,  so blessed a disposition,  she holdsit a vice in her goodness not to do more than she is requested:this broken joint between you and her husband entreat her tosplinter.   and,  my fortunes against any lay worth naming,  thiscrack of your love shall grow stronger than it was before. ",0.22727272727272727
+23,33,iago,you advise me well. ,0.0
+23,32,cassio,"i protest,  in the sincerity of love and honest kindness. ",0.55
+23,34,iago,i think it freely.   and betimes in the morning i will beseechthe virtuous desdemona to undertake for me.   i am desperateof my fortunes if they check me here. ,0.4
+23,33,cassio,"you are in the right.  good-night,  lieutenant.   i must to thewatch. ",0.2857142857142857
+23,35,iago,"good night,  honest iago. ",0.6499999999999999
+23,34,cassio,"and what's he,  then,  that says i play the villain? when this advice is free i give and honest, probal to thinking,  and,  indeed,  the courseto win the moor again?  for 'tis most easythe inclining desdemona to subduein any honest suit: she's framed as fruitfulas the free elements.  and then for herto win the moor,  were't to renounce his baptism, all seals and symbols of redeemed sin,  his soul is so enfettered to her lovethat she may make,  unmake,  do what she list, even as her appetite shall play the godwith his weak function.  how am i,  then,  a villainto counsel cassio to this parallel course, directly to his good?  divinity of hell!when devils will the blackest sins put on, they do suggest at first with heavenly shows, as i do now: for whiles this honest foolplies desdemona to repair his fortune, and she for him pleads strongly to the moor, i'll pour this pestilence into his ear,  that she repeals him for her body's lust.  and by how much she strives to do him good, she shall undo her credit with the moor. so will i turn her virtue into pitch.  and out of her own goodness make the netthat shall enmesh them all. how now,  roderigo!",0.4387254901960784
+23,36,iago,"i do follow here in the chase,  not like a hound that hunts, but one that fills up the cry.  my money is almost spent.   ihave been to-night exceedingly well cudgelled.   and i thinkthe issue will be i shall have so much experience for mypains: and so,  with no money at all and a little more wit, return again to venice. ",0.103125
+23,2,roderigo,"how poor are they that have not patience!what wound did ever heal but by degrees? thou know'st we work by wit,  and not by witchcraft.  and wit depends on dilatory time. does't not go well?  cassio hath beaten thee, and thou,  by that small hurt,  hast cashiered cassio.  though other things grow fair against the sun, yet fruits that blossom first will first be ripe:content thyself awhile.  by the mass,  'tis morning.  pleasure and action make the hours seem short.  retire thee.   go where thou art billeted:away,  i say.   thou shalt know more hereafter.  nay,  get thee gone. two things are to be done,  my wife must move for cassio to her mistress.  i'll set her on.  myself the while to draw the moor apart, and bring him jump when he may cassio findsoliciting his wife.  ay,  that's the way.  dull not device by coldness and delay. ",0.07333333333333332
+23,37,iago,"masters,  play here,  i will content your pains, something that's brief.   and bid ""good-morrow,  general. """,0.02500000000000001
+31,1,cassio,"why,  masters,  have your instruments been in naples,  that theyspeak i' the nose thus? first musician. how,  sir,  how!",0.3125
+31,1,clown,"are these,  i pray you,  wind instruments? ",0.0
+31,2,clown,"o,  thereby hangs a tale. ",0.0
+31,3,clown,"marry,  sir,  by many a wind instrument that i know.  but,  masters, here's money for you: and the general so likes your music,  thathe desires you,  for love's sake,  to make no more noise with it. ",0.2
+31,4,clown,"if you have any music that may not be heard,  to't again: but, as they say,  to hear music the general does not greatly care. ",-0.175
+31,5,clown,"then put up your pipes in your bag,  for i'll away: go,  vanishinto air,  away!",0.0
+31,6,clown,"dost thou hear,  mine honest friend? ",0.6
+31,2,cassio,"no,  i hear not your honest friend.   i hear you. ",0.6
+31,7,clown,"pr'ythee,  keep up thy quillets.  there's a poor piece of goldfor thee: if the gentlewoman that attends the general's wifebe stirring,  tell her there's one cassio entreats her a littlefavour of speech: wilt thou do this? ",-0.175
+31,3,cassio,"she is stirring,  sir.   if she will stir hither i shallseem to notify unto her. ",0.0
+31,8,clown,"do,  good my friend. ",0.7
+31,4,cassio,"you have not been a-bed,  then? ",0.0
+31,1,iago,"why,  no.   the day had brokebefore we parted.  i have made bold,  iago, to send in to your wife: my suit to heris,  that she will to virtuous desdemonaprocure me some access. ",0.3333333333333333
+31,5,cassio,"i'll send her to you presently.  and i'll devise a mean to draw the moorout of the way,  that your converse and businessmay be more free. ",0.146875
+31,2,iago,i humbly thank you for't.  [exit iago. ] i never knewa florentine more kind and honest. ,0.375
+31,6,cassio,"good-morrow,  good lieutenant.   i am sorryfor your displeasure.   but all will sure be well. the general and his wife are talking of it.  and she speaks for you stoutly: the moor repliesthat he you hurt is of great fame in cyprusand great affinity,  and that,  in wholesome wisdom, he might not but refuse you.   but he protests he loves youand needs no other suitor but his likingsto take the safest occasion by the frontto bring you in again. ",0.4854166666666666
+31,1,emilia,"yet,  i beseech you,  if you think fit,  or that it may be done,  give me advantage of some brief discoursewith desdemona alone. ",0.2
+31,7,cassio,"pray you,  come in:i will bestow you where you shall have timeto speak your bosom freely. ",0.4
+31,2,emilia,i am much bound to you. ,0.2
+31,8,cassio,"these letters give,  iago,  to the pilot.  and by him do my duties to the senate:that done,  i will be walking on the works.  repair there to me. ",0.0
+32,1,othello,"well,  my good lord,  i'll do't. ",0.7
+32,1,iago,"this fortification,  gentlemen,  shall we see't? ",0.0
+32,2,othello,"be thou assured,  good cassio,  i will doall my abilities in thy behalf. ",0.7
+33,1,desdemona,"good madam,  do: i warrant it grieves my husbandas if the cause were his. ",0.7
+33,1,emilia,"o,  that's an honest fellow.  do not doubt,  cassio, but i will have my lord and you againas friendly as you were. ",0.4875
+33,2,desdemon,"bounteous madam, whatever shall become of michael cassio, he's never anything but your true servant. ",0.35
+33,1,cassio,"i know't,  i thank you.  you do love my lord:you have known him long.   and be you well assuredhe shall in strangeness stand no farther offthan in a politic distance. ",0.225
+33,3,desdemona,"ay,  but,  lady, that policy may either last so long, or feed upon such nice and waterish diet, or breed itself so out of circumstance, that,  i being absent,  and my place supplied, my general will forget my love and service. ",0.18333333333333335
+33,2,cassio,"do not doubt that.   before emilia herei give thee warrant of thy place: assure thee, if i do vow a friendship,  i'll perform itto the last article: my lord shall never rest.  i'll watch him tame,  and talk him out of patience.  his bed shall seem a school,  his board a shrift.  i'll intermingle everything he doeswith cassio's suit: therefore be merry,  cassio.  for thy solicitor shall rather diethan give thy cause away. ",-0.10833333333333334
+33,4,desdemona,"madam,  here comes my lord. ",0.0
+33,2,emilia,"madam,  i'll take my leave. ",0.0
+33,3,cassio,"why,  stay,  and hear me speak. ",0.0
+33,5,desdemona,"madam,  not now.  i am very ill at ease, unfit for mine own purposes. ",-0.025000000000000022
+33,4,cassio,"well,  do your discretion. ",0.0
+33,6,desdemona,ha! i like not that. ,0.0
+33,1,iago,what dost thou say? ,0.0
+33,1,othello,"nothing,  my lord: or if i know not what. ",0.0
+33,2,iago,was not that cassio parted from my wife? ,0.0
+33,2,othello,"cassio,  my lord! no,  sure,  i cannot think it, that he would steal away so guilty-like, seeing you coming. ",-0.25
+33,3,iago,i do believe 'twas he. ,0.0
+33,3,othello,"how now,  my lord!i have been talking with a suitor here, a man that languishes in your displeasure. ",0.0
+33,7,desdemona,who is't you mean? ,-0.3125
+33,4,othello,"why,  your lieutenant,  cassio.  good my lord, if i have any grace or power to move you, his present reconciliation take.  for if he be not one that truly loves you, that errs in ignorance and not in cunning, i have no judgement in an honest face:i pr'ythee,  call him back. ",0.25999999999999995
+33,8,desdemona,went he hence now? ,0.0
+33,5,othello,"ay,  sooth.   so humbledthat he hath left part of his grief with meto suffer with him.  good love,  call him back. ",0.07999999999999999
+33,9,desdemona,"not now,  sweet desdemon.   some other time. ",0.11249999999999999
+33,6,othello,but shall't be shortly? ,0.0
+33,10,desdemona,"the sooner,  sweet,  for you. ",0.35
+33,7,othello,shall't be to-night at supper? ,0.0
+33,11,desdemona,"no,  not to-night. ",0.0
+33,8,othello,to-morrow dinner then? ,0.0
+33,12,desdemona,i shall not dine at home.  i meet the captains at the citadel. ,0.0
+33,9,othello,"why then to-morrow night.   or tuesday morn.  on tuesday noon,  or night.   on wednesday morn: i pr'ythee,  name the time.   but let it notexceed three days: in faith,  he's penitent.  and yet his trespass,  in our common reason,  save that,  they say,  the wars must make examplesout of their best,  is not almost a faultto incur a private check.  when shall he come? tell me,  othello: i wonder in my soul, what you would ask me,  that i should deny, or stand so mammering on.  what! michael cassio, that came awooing with you.   and so many a time, when i have spoke of you dispraisingly, hath ta'en your part.   to have so much to doto bring him in! trust me,  i could do much,  ",0.27499999999999997
+33,13,desdemona,"pr'ythee,  no more.   let him come when he will.  i will deny thee nothing. ",-0.25
+33,10,othello,"why,  this is not a boon.  'tis as i should entreat you wear your gloves, or feed on nourishing dishes,  or keep you warm, or sue to you to do a peculiar profitto your own person: nay,  when i have a suitwherein i mean to touch your love indeed, it shall be full of poise and difficult weight, and fearful to be granted. ",0.04821428571428569
+33,14,desdemona,"i will deny thee nothing:whereon,  i do beseech thee,  grant me this, to leave me but a little to myself. ",-0.1875
+33,11,othello,"shall i deny you?  no: farewell,  my lord. ",0.0
+33,15,desdemona,"farewell,  my desdemona: i'll come to thee straight. ",0.2
+33,12,othello,"emilia,  come.  be as your fancies teach you.  whate'er you be,  i am obedient. ",0.4
+33,16,desdemona,i am to blame. ,0.0
+33,13,othello,"my noble lord,  ",0.6
+33,4,iago,"what dost thou say,  iago? ",0.0
+33,14,othello,"did michael cassio,  when you wooed my lady, know of your love? ",0.5
+33,5,iago,"he did,  from first to last: why dost thou ask? ",0.125
+33,15,othello,but for a satisfaction of my thought.  no further harm. ,0.0
+33,6,iago,"why of thy thought,  iago? ",0.0
+33,16,othello,i did not think he had been acquainted with her. ,0.5
+33,7,iago,"o,  yes.   and went between us very oft. ",0.2
+33,17,othello,indeed!,0.0
+33,8,iago,"indeed! ay,  indeed: discern'st thou aught in that? is he not honest? ",-0.3
+33,18,othello,"honest,  my lord!",0.75
+33,9,iago,"honest! ay,  honest. ",0.675
+33,19,othello,"my lord,  for aught i know. ",0.0
+33,10,iago,what dost thou think? ,0.0
+33,20,othello,"think,  my lord!",0.0
+33,11,iago,"think,  my lord! by heaven,  he echoes me, as if there were some monster in his thoughttoo hideous to be shown.  thou dost mean something:i heard thee say even now,  thou likedst not that, when cassio left my wife.  what didst not like? and when i told thee he was of my counselin my whole course of wooing,  thou criedst,  ""indeed!""and didst contract and purse thy brow together, as if thou then hadst shut up in thy brainsome horrible conceit: if thou dost love me, show me thy thought. ",-0.1125
+33,21,othello,"my lord,  you know i love you. ",0.5
+33,12,iago,"i think thou dost.  and,  for i know thou'rt full of love and honestyand weigh'st thy words before thou giv'st them breath,  therefore these stops of thine fright me the more:for such things in a false disloyal knaveare tricks of custom.   but in a man that's justthey're close delations,  working from the heart, that passion cannot rule. ",0.11249999999999998
+33,22,othello,"for michael cassio, i dare be sworn i think that he is honest. ",0.6
+33,13,iago,i think so too. ,0.0
+33,23,othello,"men should be what they seem.  or those that be not,  would they might seem none!",0.0
+33,14,iago,"certain,  men should be what they seem. ",0.21428571428571427
+33,24,othello,"why,  then,  i think cassio's an honest man. ",0.6
+33,15,iago,"nay,  yet there's more in this:i pr'ythee,  speak to me as to thy thinkings, as thou dost ruminate.   and give thy worst of thoughtsthe worst of words. ",-0.5
+33,25,othello,"good my lord,  pardon me:though i am bound to every act of duty, i am not bound to that all slaves are free to. utter my thoughts?  why,  say they are vile and false.   as where's that palace whereinto foul thingssometimes intrude not?  who has a breast so purebut some uncleanly apprehensionskeep leets and law-days,  and in session sitwith meditations lawful? ",0.13999999999999999
+33,16,iago,"thou dost conspire against thy friend,  iago, if thou but think'st him wronged and mak'st his eara stranger to thy thoughts. ",0.0
+33,26,othello,"i do beseech you,  though i perchance am vicious in my guess, as,  i confess,  it is my nature's plagueto spy into abuses,  and of my jealousyshape faults that are not,  that your wisdom yet, from one that so imperfectly conceits, would take no notice.   nor build yourself a troubleout of his scattering and unsure observance: it were not for your quiet nor your good, nor for my manhood,  honesty,  or wisdom, to let you know my thoughts. ",-0.10000000000000002
+33,17,iago,what dost thou mean? ,-0.3125
+33,27,othello,"good name in man and woman,  dear my lord, is the immediate jewel of their souls:who steals my purse steals trash.   'tis something,  nothing.  'twas mine,  'tis his,  and has been slave to thousands.  but he that filches from me my good namerobs me of that which not enriches himand makes me poor indeed. ",0.3333333333333333
+33,18,iago,"by heaven,  i'll know thy thoughts. ",0.0
+33,28,othello,"you cannot,  if my heart were in your hand.  nor shall not,  whilst 'tis in my custody. ",0.0
+33,19,iago,ha!,0.0
+33,29,othello,"o,  beware,  my lord,  of jealousy.  it is the green-eyed monster which doth mockthe meat it feeds on: that cuckold lives in blisswho,  certain of his fate,  loves not his wronger.  but o,  what damned minutes tells he o'erwho dotes,  yet doubts,  suspects,  yet strongly loves!",0.37797619047619047
+33,20,iago,o misery!,0.0
+33,30,othello,"poor and content is rich,  and rich enough.  but riches fineless is as poor as winterto him that ever fears he shall be poor.   good heaven,  the souls of all my tribe defendfrom jealousy!",0.06071428571428571
+33,21,iago,"why,  why is this? think'st thou ied make a life of jealousy, to follow still the changes of the moonwith fresh suspicions?  no.   to be once in doubtis once to be resolved: exchange me for a goatwhen i shall turn the business of my soulto such exsufflicate and blown surmises, matching thy inference.  'tis not to make me jealous, to say my wife is fair,  feeds well,  loves company, is free of speech,  sings,  plays,  and dances well.  where virtue is,  these are more virtuous:nor from mine own weak merits will i drawthe smallest fear or doubt of her revolt.  for she had eyes and chose me.  no,  iago.  i'll see before i doubt.   when i doubt,  prove.  and on the proof,  there is no more but this,  away at once with love or jealousy!",0.2777777777777778
+33,31,othello,"i am glad of it.   for now i shall have reasonto show the love and duty that i bear youwith franker spirit: therefore,  as i am bound, receive it from me: i speak not yet of proof. look to your wife.   observe her well with cassio.  wear your eye thus,  not jealous nor secure:i would not have your free and noble nature, out of self-bounty,  be abused.   look to't. i know our country disposition well.  in venice they do let heaven see the pranksthey dare not show their husbands.   their best conscienceis not to leave undone,  but keep unknown. ",0.48333333333333334
+33,22,iago,dost thou say so? ,0.0
+33,32,othello,"she did deceive her father,  marrying you.  and when she seemed to shake and fear your looks, she loved them most. ",0.6
+33,23,iago,and so she did. ,0.0
+33,33,othello,"why,  go to then.  she that,  so young,  could give out such a seeming, to seal her father's eyes up close as oak,  he thought 'twas witchcraft,  but i am much to blame.  i humbly do beseech you of your pardonfor too much loving you. ",0.13999999999999999
+33,24,iago,i am bound to thee for ever. ,0.0
+33,34,othello,i see this hath a little dashed your spirits. ,-0.1875
+33,25,iago,"not a jot,  not a jot. ",0.0
+33,35,othello,"trust me,  i fear it has. i hope you will consider what is spokecomes from my love.   but i do see you're moved: i am to pray you not to strain my speechto grosser issues nor to larger reachthan to suspicion. ",0.25
+33,26,iago,i will not. ,0.0
+33,36,othello,"should you do so,  my lord, my speech should fall into such vile successwhich my thoughts aimed not.  cassio's my worthy friend: my lord,  i see you're moved. ",0.16666666666666666
+33,27,iago,"no,  not much moved. i do not think but desdemona's honest. ",0.25
+33,37,othello,long live she so! and long live you to think so!,0.06022727272727272
+33,28,iago,"and yet,  how nature erring from itself,  ",0.0
+33,38,othello,"ay,  there's the point: as,  to be bold with you,  not to affect many proposed matches, of her own clime,  complexion,  and degree, whereto we see in all things nature tends,  foh! one may smell in such a will most rank, foul disproportion,  thoughts unnatural: but pardon me: i do not in positiondistinctly speak of her.   though i may fear, her will,  recoiling to her better judgement, may fall to match you with her country forms, and happily repent. ",0.32291666666666663
+33,29,iago,"farewell,  farewell:if more thou dost perceive,  let me know more.  set on thy wife to observe: leave me,  iago. ",0.5
+33,39,othello,"[going. ] my lord,  i take my leave. ",0.0
+33,30,iago,"why did i marry?  this honest creature doubtlesssees and knows more,  much more,  than he unfolds. ",0.5333333333333333
+33,40,othello,"[returning. ] my lord,  i would i might entreat your honourto scan this thing no further.   leave it to time:though it be fit that cassio have his place,  for sure he fills it up with great ability,  yet,  if you please to hold him off awhile, you shall by that perceive him and his means:note if your lady strain his entertainmentwith any strong or vehement importunity.  much will be seen in that.  in the meantime, let me be thought too busy in my fears,  as worthy cause i have to fear i am,  and hold her free,  i do beseech your honour. ",0.35185185185185186
+33,31,iago,fear not my government. ,0.0
+33,41,othello,i once more take my leave. ,0.5
+33,32,iago,"this fellow's of exceeding honesty, and knows all qualities,  with a learned spirit, of human dealings.  if i do prove her haggard, though that her jesses were my dear heartstrings, ied whistle her off,  and let her down the windto prey at fortune.  haply,  for i am black, and have not those soft parts of conversationthat chamberers have.   or for i am declinedinto the vale of years,  yet that's not much,  she's gone.   i am abused,  and my reliefmust be to loathe her.  o curse of marriage, that we can call these delicate creatures ours, and not their appetites! i had rather be a toad, and live upon the vapor of a dungeon, than keep a corner in the thing i lovefor others' uses.  yet,  'tis the plague of great ones:prerogatived are they less than the base.  'tis destiny unshunnable,  like death:even then this forked plague is fated to uswhen we do quicken.  desdemona comes:if she be false,  o,  then heaven mocks itself! i'll not believe't. ",-0.11159320477502298
+33,42,othello,"how now,  my dear othello!your dinner,  and the generous islandersby you invited,  do attend your presence. ",0.0
+33,43,othello,why do you speak so faintly? are you not well? ,-0.5
+33,17,desdemona,i have a pain upon my forehead here. ,0.0
+33,44,othello,"faith,  that's with watching.   'twill away again.  let me but bind it hard,  within this hourit will be well. ",-0.2916666666666667
+33,18,desdemona,"your napkin is too little.  let it alone.  come,  i'll go in with you. ",-0.1875
+33,45,othello,i am very sorry that you are not well. ,-0.65
+33,19,desdemona,"i am glad i have found this napkin.  this was her first remembrance from the moor. my wayward husband hath a hundred timeswooed me to steal it.   but she so loves the token,  for he conjured her she should ever keep it,  that she reserves it evermore about herto kiss and talk to.  i'll have the work ta'en out, and give't iago:what he will do with it heaven knows,  not i.  i nothing but to please his fantasy. ",0.375
+33,3,emilia,how now! what do you here alone? ,0.0
+33,33,iago,do not you chide.   i have a thing for you. ,0.0
+33,4,emilia,a thing for me! it is a common thing. ,-0.3
+33,34,iago,"o,  is that all?  what will you give me nowfor that same handkerchief? ",0.0
+33,5,emilia,to have a foolish wife. ,0.0
+33,6,emilia,what handkerchief? ,0.0
+33,35,iago,"what handkerchief!why,  that the moor first gave to desdemona.  that which so often you did bid me steal. ",0.25
+33,7,emilia,hast stol'n it from her? ,0.0
+33,36,iago,"no,  faith.   she let it drop by negligence, and,  to the advantage,  i being here,  took't up. look,  here it is. ",0.0
+33,8,emilia,a good wench.   give it me. ,0.7
+33,37,iago,"what will you do with't,  that you have been so earnestto have me filch it? ",0.0
+33,9,emilia,"[snatching it. ] why,  what's that to you? ",0.0
+33,38,iago,"if it be not for some purpose of import, give't me again: poor lady,  she'll run madwhen she shall lack it. ",-0.4
+33,10,emilia,"be not acknown on't.   i have use for it. go,  leave me. i will in cassio's lodging lose this napkin, and let him find it.  trifles light as airare to the jealous confirmations strongas proofs of holy writ: this may do something. the moor already changes with my poison:dangerous conceits are in their natures poisons, which at the first are scarce found to distaste, but,  with a little act upon the blood, burn like the mines of sulphur.  i did say so: look,  where he comes!not poppy,  nor mandragora, nor all the drowsy syrups of the world, shall ever medicine thee to that sweet sleepwhich thou owedst yesterday. ",0.203125
+33,39,iago,ha! ha! false to me? ,-0.4000000000000001
+33,46,othello,"why,  how now,  general! no more of that. ",-0.09374999999999999
+33,40,iago,avaunt! be gone! thou hast set me on the rack: i swear 'tis better to be much abusedthan but to know't a little. ,0.1708333333333333
+33,47,othello,"how now,  my lord!",0.0
+33,41,iago,"what sense had i of her stol'n hours of lust? i saw't not,  thought it not,  it harmed not me:i slept the next night well,  was free and merry.  i found not cassio's kisses on her lips:he that is robbed,  not wanting what is stol'n, let him not know't and he's not robbed at all. ",0.2
+33,48,othello,i am sorry to hear this. ,-0.5
+33,42,iago,"i had been happy if the general camp, pioners and all,  had tasted her sweet body, so i had nothing known.  o,  now,  for everfarewell the tranquil mind! farewell content!farewell the plumed troop and the big warsthat make ambition virtue! o,  farewell, farewell the neighing steed and the shrill trump, the spirit-stirring drum,  the ear-piercing fife, the royal banner,  and all quality, pride,  pomp,  and circumstance of glorious war!and,  o you mortal engines,  whose rude throatsthe immortal jove's dread clamors counterfeit, farewell! othello's occupation's gone!",0.06979166666666668
+33,49,othello,"is't possible,  my lord?  ",0.0
+33,43,iago,"villain,  be sure thou prove my love a whore.   be sure of it.  give me the ocular proof.  or,  by the worth of man's eternal soul, thou hadst been better have been born a dogthan answer my waked wrath!",0.485
+33,50,othello,is't come to this? ,0.0
+33,44,iago,"make me to see't.   or at the least so prove it, that the probation bear no hinge nor loopto hang a doubt on.   or woe upon thy life!",-0.375
+33,51,othello,"my noble lord,  ",0.6
+33,45,iago,"if thou dost slander her and torture me, never pray more.   abandon all remorse.  on horror's head horrors accumulate.  do deeds to make heaven weep,  all earth amazed.  for nothing canst thou to damnation addgreater than that. ",0.5
+33,52,othello,"o grace! o heaven defend me!are you a man?  have you a soul or sense?  god be wi' you.   take mine office.  o wretched fool, that liv'st to make thine honesty a vice! o monstrous world! take note,  take note,  o world, to be direct and honest is not safe.  i thank you for this profit.   and from hencei'll love no friend,  sith love breeds such offense. ",0.24166666666666667
+33,46,iago,"nay,  stay: thou shouldst be honest. ",0.6
+33,53,othello,"i should be wise.   for honesty's a fool, and loses that it works for. ",0.19999999999999998
+33,47,iago,"by the world, i think my wife be honest,  and think she is not.  i think that thou art just,  and think thou art not:i'll have some proof: her name,  that was as freshas dian's visage,  is now begrimed and blackas mine own face.  if there be cords or knives, poison or fire,  or suffocating streams, i'll not endure 't.  would i were satisfied!",0.33125
+33,54,othello,"i see,  sir,  you are eaten up with passion:i do repent me that i put it to you. you would be satisfied? ",0.5
+33,48,iago,"would! nay,  i will. ",0.0
+33,55,othello,"and may: but how?  how satisfied,  my lord? would you,  the supervisor,  grossly gape on,  behold her tupped? ",0.25
+33,49,iago,death and damnation! o!,0.0
+33,56,othello,"it were a tedious difficulty,  i think, to bring them to that prospect: damn them then, if ever mortal eyes do see them bolstermore than their own! what then?  how then? what shall i say?  where's satisfaction? it is impossible you should see thiswere they as prime as goats,  as hot as monkeys, as salt as wolves in pride,  and fools as grossas ignorance made drunk.  but yet,  i say, if imputation and strong circumstances,  which lead directly to the door of truth,  will give you satisfaction,  you may have't. ",-0.019047619047619046
+33,50,iago,give me a living reason she's disloyal. ,0.0
+33,57,othello,"i do not like the office.  but,  sith i am entered in this cause so far,  pricked to it by foolish honesty and love,  i will go on.  i lay with cassio lately.  and,  being troubled with a raging tooth, i could not sleep. there are a kind of men so loose of soul, that in their sleeps will mutter their affairs:one of this kind is cassio:in sleep i heard him say,  ""sweet desdemona, let us be wary,  let us hide our loves"".  and then,  sir,  would he gripe and wring my hand, cry,  ""o sweet creature!"" and then kiss me hard, as if he plucked up kisses by the roots, that grew upon my lips: then laid his legover my thigh,  and sighed and kissed.   and thencried,  ""cursed fate that gave thee to the moor!""",0.07690850815850815
+33,51,iago,o monstrous! monstrous!,0.0
+33,58,othello,"nay,  this was but his dream. ",0.0
+33,52,iago,"but this denoted a foregone conclusion:'tis a shrewd doubt,  though it be but a dream. ",0.0
+33,59,othello,and this may help to thicken other proofsthat do demonstrate thinly. ,-0.2625
+33,53,iago,i'll tear her all to pieces. ,0.0
+33,60,othello,"nay,  but be wise: yet we see nothing done.  she may be honest yet.  tell me but this,  have you not sometimes seen a handkerchiefspotted with strawberries in your wife's hand? ",0.6499999999999999
+33,54,iago,i gave her such a one.   'twas my first gift. ,0.125
+33,61,othello,yet be content. ,0.0
+33,55,iago,"if it be that,  ",0.0
+33,62,othello,"patience,  i say.   your mind perhaps may change. ",0.0
+33,56,iago,"o,  that the slave had forty thousand lives,  one is too poor,  too weak for my revenge!now do i see 'tis true.  look here,  iago.  all my fond love thus do i blow to heaven:'tis gone.  arise,  black vengeance,  from thy hollow hell!yield up,  o love,  thy crown and hearted throneto tyrannous hate! swell,  bosom,  with thy fraught, for 'tis of aspics' tongues!",-0.08645833333333333
+33,57,iago,"o,  blood,  iago,  blood!",0.0
+33,58,iago,"never,  iago.  like to the pontic sea, whose icy current and compulsive coursene'er feels retiring ebb,  but keeps due onto the propontic and the hellespont.  even so my bloody thoughts,  with violent pace, shall ne'er look back,  ne'er ebb to humble love, till that a capable and wide revengeswallow them up.  now,  by yond marble heaven, in the due reverence of a sacred vow [kneels. ]i here engage my words. ",-0.14090909090909096
+33,63,othello,"do not rise yet.   [kneels. ]witness,  you ever-burning lights above, you elements that clip us round about,  witness that here iago doth give upthe execution of his wit,  hands,  heart, to wronged othello's service! let him command, and to obey shall be in me remorse, what bloody business ever.  ",-0.35000000000000003
+33,59,iago,"i greet thy love, not with vain thanks,  but with acceptance bounteous, and will upon the instant put thee to't:within these three days let me hear thee saythat cassio's not alive. ",0.16249999999999998
+33,64,othello,my friend is dead.   'tis done at your request:but let her live. ,-0.03181818181818183
+33,60,iago,"damn her,  lewd minx! o,  damn her!come,  go with me apart.   i will withdrawto furnish me with some swift means of deathfor the fair devil.  now art thou my lieutenant. ",0.7
+33,65,othello,i am your own forever. ,0.6
+33,61,iago,"do you know,  sirrah,  where lieutenant cassio lies? ",0.0
+34,1,desdemona,i dare not say he lies anywhere. ,0.0
+34,1,clown,"why,  man? ",0.0
+34,2,desdemona,he's a soldier.   and for one to say a soldier lies is stabbing. ,-0.6
+34,2,clown,go to: where lodges he? ,0.0
+34,3,desdemona,to tell you where he lodges is to tell you where i lie. ,0.0
+34,3,clown,can anything be made of this? ,0.0
+34,4,desdemona,"i know not where he lodges.   and for me to devise a lodging, and say he lies here or he lies there were to lie in mineown throat. ",0.0
+34,4,clown,"can you inquire him out,  and be edified by report? ",0.0
+34,5,desdemona,"i will catechize the world for him.   that is,  make questionsand by them answer. ",0.0
+34,5,clown,"seek him,  bid him come hither: tell him i have moved my lordon his behalf,  and hope all will be well. ",0.0
+34,6,desdemona,to do this is within the compass of man's wit.   and thereforei will attempt the doing it. ,0.0
+34,6,clown,"where should i lose that handkerchief,  emilia? ",0.0
+34,7,desdemona,"i know not,  madam. ",0.0
+34,1,emilia,"believe me,  i had rather have lost my pursefull of crusadoes: and,  but my noble mooris true of mind and made of no such basenessas jealous creatures are,  it were enoughto put him to ill thinking. ",0.11249999999999999
+34,8,desdemona,is he not jealous? ,0.0
+34,2,emilia,"who,  he?  i think the sun where he was borndrew all such humours from him. ",0.0
+34,9,desdemona,"look,  where he comes. ",0.0
+34,3,emilia,"i will not leave him now till cassiobe called to him. how is't with you,  my lord? ",0.0
+34,10,desdemona,"well,  my good lady.  [aside. ] o,  hardness to dissemble! how do you,  desdemona? ",0.875
+34,1,othello,"well,  my good lord. ",0.7
+34,11,desdemona,"give me your hand: this hand is moist,  my lady. ",0.0
+34,2,othello,it yet hath felt no age nor known no sorrow. ,0.0
+34,12,desdemona,"this argues fruitfulness and liberal heart: hot,  hot,  and moist: this hand of yours requiresa sequester from liberty,  fasting,  and prayer, much castigation,  exercise devout.  for here's a young and sweating devil herethat commonly rebels.  'tis a good hand, a frank one. ",0.19999999999999998
+34,3,othello,"you may,  indeed,  say so.  for 'twas that hand that gave away my heart. ",0.0
+34,13,desdemona,"a liberal hand: the hearts of old gave hands.  but our new heraldry is hands,  not hearts. ",0.11818181818181818
+34,4,othello,"i cannot speak of this.  come now,  your promise. ",0.0
+34,14,desdemona,"what promise,  chuck? ",0.0
+34,5,othello,i have sent to bid cassio come speak with you. ,0.0
+34,15,desdemona,i have a salt and sorry rheum offends me.  lend me thy handkerchief. ,-0.5
+34,6,othello,"here,  my lord. ",0.0
+34,16,desdemona,that which i gave you. ,0.0
+34,7,othello,i have it not about me. ,0.0
+34,17,desdemona,not? ,0.0
+34,8,othello,"no,  faith,  my lord. ",0.0
+34,18,desdemona,"that is a fault.  that handkerchiefdid an egyptian to my mother give.  she was a charmer,  and could almost readthe thoughts of people: she told her,  while she kept it, 'twould make her amiable and subdue my fatherentirely to her love.   but if she lost itor made a gift of it,  my father's eyeshould hold her loathed,  and his spirits should huntafter new fancies: she,  dying,  gave it me.  and bid me,  when my fate would have me wive, to give it her.  i did so: and take heed on't.  make it a darling like your precious eye.  to lose't or give't away were such perditionas nothing else could match. ",0.28409090909090906
+34,9,othello,is't possible? ,0.0
+34,19,desdemona,"'tis true: there's magic in the web of it:a sibyl,  that had numbered in the worldthe sun to course two hundred compasses, in her prophetic fury sewed the work.  the worms were hallowed that did breed the silk.  and it was dyed in mummy which the skillfulconserved of maiden's hearts. ",0.425
+34,10,othello,indeed! is't true? ,0.35
+34,20,desdemona,most veritable.   therefore look to't well. ,0.5
+34,11,othello,then would to god that i had never seen't!,0.0
+34,21,desdemona,ha! wherefore? ,0.0
+34,12,othello,why do you speak so startingly and rash? ,0.0
+34,22,desdemona,"is't lost?  is't gone?  speak,  is it out of the way? ",0.0
+34,13,othello,it is not lost.   but what an if it were? ,0.0
+34,23,desdemona,say you? ,0.0
+34,24,desdemona,how!,0.0
+34,14,othello,"i say,  it is not lost. ",0.0
+34,25,desdemona,"fetch't,  let me see't. ",0.0
+34,15,othello,"i pray,  talk me of cassio. ",0.0
+34,26,desdemona,fetch me the handkerchief: my mind misgives. ,0.0
+34,16,othello,"a man that all his timehath founded his good fortunes on your love, shared dangers with you,  ",0.6
+34,27,desdemona,the handkerchief!,0.0
+34,28,desdemona,the handkerchief!,0.0
+34,29,desdemona,the handkerchief!,0.0
+34,17,othello,"in sooth,  you are to blame. ",0.0
+34,30,desdemona,away!,0.0
+34,18,othello,is not this man jealous? ,0.0
+34,4,emilia,"alas the day,  i never gave him cause!",-0.5
+34,31,desdemona,"'tis not a year or two shows us a man:they are all but stomachs and we all but food:they eat us hungerly,  and when they are full, they belch us.  look you,  cassio and my husband. ",0.35
+34,5,emilia,"i will go seek him.  cassio,  walk hereabout:if i do find him fit,  i'll move your suit, and seek to effect it to my uttermost. ",0.4
+34,1,iago,"how now,  good cassio! what's the news with you? ",0.875
+34,32,desdemona,"madam,  my former suit: i do beseech youthat by your virtuous means i may againexist,  and be a member of his love, whom i,  with all the office of my heart, entirely honour: i would not be delayed. if my offence be of such mortal kindthat nor my service past,  nor present sorrows, nor purposed merit in futurity, can ransom me into his love again, but to know so must be my benefit.  so shall i clothe me in a forced content, and shut myself up in some other course, to fortune's alms. ",0.03611111111111111
+34,1,cassio,"alas,  thrice-gentle cassio!my advocation is not now in tune.  my lord is not my lord.   nor should i know himwere he in favour as in humour altered. so help me every spirit sanctified, as i have spoken for you all my best, and stood within the blank of his displeasurefor my free speech! you must awhile be patient:what i can do i will.   and more i willthan for myself i dare: let that suffice you. ",0.32
+34,33,desdemona,is my lord angry? ,-0.5
+34,2,iago,"he went hence but now, and certainly in strange unquietness. ",-0.05
+34,6,emilia,"can he be angry?  i have seen the cannon, when it hath blown his ranks into the airand,  like the devil,  from his very armpuffed his own brother.   and can he be angry? something of moment,  then: i will go meet him:there's matter in't indeed if he be angry. ",-0.13999999999999999
+34,3,iago,"i pr'ythee,  do so.  something sure of state,  either from venice or some unhatched practicemade demonstrable here in cyprus to him,  hath puddled his clear spirit,  and in such casesmen's natures wrangle with inferior things, though great ones are their object.  'tis even so.  for let our finger ache,  and it induesour other healthful members even to that senseof pain: nay,  we must think men are not gods, nor of them look for such observancyas fits the bridal.  beshrew me much,  emilia, i was,  unhandsome warrior as i am,  arraigning his unkindness with my soul.  but now i find i had suborned the witness, and he's indicted falsely. ",0.13437499999999997
+34,34,desdemona,"pray heaven it be state matters,  as you think, and no conception nor no jealous toyconcerning you. ",0.0
+34,35,desdemona,"but jealous souls will not be answered so.  they are not ever jealous for the cause, but jealous for they are jealous: 'tis a monsterbegot upon itself,  born on itself. ",0.0
+34,36,desdemona,"lady,  amen. ",0.0
+34,37,desdemona,i humbly thank your ladyship. ,-0.2
+34,2,cassio,"save you,  friend cassio!",0.0
+34,1,bianca,"what make you from home? how is it with you,  my most fair bianca? i'faith,  sweet love,  i was coming to your house. ",0.5125
+34,3,cassio,"and i was going to your lodging,  cassio. what,  keep a week away?  seven days and nights? eight score eight hours?  and lovers' absent hours, more tedious than the dial eight score times? o weary reckoning!",-0.0625
+34,2,bianca,"pardon me,  bianca:i have this while with leaden thoughts been pressed.  but i shall in a more continuate timestrike off this score of absence.  sweet bianca, [giving her desdemona's handkerchief. ]take me this work out. ",0.159375
+34,4,cassio,"o cassio,  whence came this? this is some token from a newer friend. to the felt absence now i feel a cause:is't come to this?  well,  well. ",-0.0125
+34,3,bianca,"go to,  woman!throw your vile guesses in the devil's teeth, from whence you have them.  you are jealous nowthat this is from some mistress,  some remembrance:no,  in good troth,  bianca. ",0.7
+34,5,cassio,leave you! wherefore? ,0.0
+34,4,bianca,"i know not neither: i found it in my chamber. i like the work well: ere it be demanded,  as like enough it will,  ied have it copied:take it,  and do't.   and leave me for this time. ",0.0
+34,5,bianca,"i do attend here on the general.  and think it no addition,  nor my wish, to have him see me womaned. ",0.05000000000000002
+34,6,cassio,"why,  i pray you? ",0.0
+34,6,bianca,not that i love you not. ,0.5
+34,7,cassio,"but that you do not love me. i pray you,  bring me on the way a little.  and say if i shall see you soon at night. ",-0.21875
+34,7,bianca,"'tis but a little way that i can bring you, for i attend here: but i'll see you soon. ",-0.1875
+34,8,cassio,'tis very good.   i must be circumstanced. act iv. scene i.  cyprus.  before the castle. ,0.9099999999999999
+34,8,bianca,will you think so? ,0.0
+41,1,iago,"think so,  iago? ",0.0
+41,1,othello,"what, to kiss in private? ",0.0
+41,2,iago,an unauthorized kiss. ,0.0
+41,2,othello,"or to be naked with her friend in bedan hour or more,  not meaning any harm? ",0.25
+41,3,iago,"naked in bed,  iago,  and not mean harm!it is hypocrisy against the devil:they that mean virtuously and yet do so, the devil their virtue tempts,  and they tempt heaven. ",-0.052083333333333336
+41,3,othello,"so they do nothing,  'tis a venial slip:but if i give my wife a handkerchief,  ",0.0
+41,4,iago,what then? ,0.0
+41,4,othello,"why,  then,  'tis hers,  my lord,  and being hers, she may,  i think,  bestow't on any man. ",0.0
+41,5,iago,she is protectress of her honour too:may she give that? ,0.0
+41,5,othello,"her honour is an essence that's not seen.  they have it very oft that have it not:but,  for the handkerchief,  ",0.2
+41,6,iago,"by heaven,  i would most gladly have forgot it: thou said'st,  o,  it comes o'er my memory, as doth the raven o'er the infected house, boding to all,  he had my handkerchief. ",0.5
+41,6,othello,"ay,  what of that? ",0.0
+41,7,iago,that's not so good now. ,0.7
+41,7,othello,"what, if i had said i had seen him do you wrong? or heard him say,  as knaves be such abroad, who having,  by their own importunate suit, or voluntary dotage of some mistress, convinced or supplied them,  cannot choosebut they must blab,  ",0.033333333333333326
+41,8,iago,hath he said anything? ,0.0
+41,8,othello,"he hath,  my lord.   but be you well assured, no more than he'll unswear. ",-0.25
+41,9,iago,what hath he said? ,0.0
+41,9,othello,"faith,  that he did,  i know not what he did. ",0.0
+41,10,iago,what?  what? ,0.0
+41,10,othello,"lie,  ",0.0
+41,11,iago,with her? ,0.0
+41,11,othello,"with her,  on her,  what you will. ",0.0
+41,12,iago,"lie with her! lie on her! we say lie on her when they belieher.  lie with her! that's fulsome.  handkerchief confessions handkerchief! to confess,  and be hanged for his labour,  first, to be hanged,  and then to confess.  i tremble at it.  naturewould not invest herself in such shadowing passion without someinstruction.  it is not words that shake me thus: pish! noses, ears,  and lips.  is't possible?  confess,  handkerchief! odevil! ",0.08333333333333333
+41,12,othello,"work on, my medicine,  work! thus credulous fools are caught.  and many worthy and chaste dames even thus, all guiltless,  meet reproach.  what,  ho! my lord!my lord,  i say! othello!how now,  cassio!",0.5755208333333333
+41,13,iago,what's the matter? ,0.0
+41,1,cassio,my lord is fallen into an epilepsy:this is his second fit.   he had one yesterday. ,0.2
+41,14,iago,rub him about the temples. ,0.0
+41,2,cassio,"no,  forbear.  the lethargy must have his quiet course:if not,  he foams at mouth,  and by and bybreaks out to savage madness.  look,  he stirs:do you withdraw yourself a little while, he will recover straight: when he is gone, i would on great occasion speak with you. how is it,  general?  have you not hurt your head? ",0.17250000000000001
+41,15,iago,dost thou mock me? ,0.0
+41,13,othello,"i mock you! no,  by heaven. would you would bear your fortune like a man!",0.0
+41,16,iago,a horned man's a monster and a beast. ,0.0
+41,14,othello,"there's many a beast,  then,  in a populous city, and many a civil monster. ",0.5
+41,17,iago,did he confess it? ,0.0
+41,15,othello,"good sir,  be a man.  think every bearded fellow that's but yokedmay draw with you: there's millions now alivethat nightly lie in those unproper bedswhich they dare swear peculiar: your case is better. o,  'tis the spite of hell,  the fiend's arch-mock, to lip a wanton in a secure couch, and to suppose her chaste! no,  let me know.  and knowing what i am,  i know what she shall be. ",0.5666666666666667
+41,18,iago,"o,  thou art wise.   'tis certain. ",0.45714285714285713
+41,16,othello,"stand you awhile apart.  confine yourself but in a patient list. whilst you were here o'erwhelmed with your grief,  a passion most unsuiting such a man,  cassio came hither: i shifted him away, and laid good 'scuse upon your ecstasy.  bade him anon return,  and here speak with me.  the which he promised.  do but encave yourself, and mark the fleers,  the gibes,  and notable scorns, that dwell in every region of his face.  for i will make him tell the tale anew,  where,  how,  how oft,  how long ago,  and whenhe hath,  and is again to cope your wife:i say,  but mark his gesture.  marry,  patience.  or i shall say you are all in all in spleen, and nothing of a man. ",0.14166666666666664
+41,19,iago,"dost thou hear,  iago? i will be found most cunning in my patience.  but,  dost thou hear?  most bloody. ",0.04999999999999999
+41,17,othello,"that's not amiss.  but yet keep time in all.  will you withdraw? now will i question cassio of bianca, a housewife that,  by selling her desires, buys herself bread and clothes: it is a creaturethat dotes on cassio,  as 'tis the strumpet's plagueto beguile many and be beguiled by one: he,  when he hears of her,  cannot refrainfrom the excess of laughter: here he comes: as he shall smile othello shall go mad.  and his unbookish jealousy must construepoor cassio's smiles,  gestures,  and light behaviorquite in the wrong. how do you now,  lieutenant? ",0.015000000000000013
+41,20,iago,the worser that you give me the additionwhose want even kills me. ,0.0
+41,3,cassio,"ply desdemona well,  and you are sure on't. now,  if this suit lay in bianca's power, how quickly should you speed!",0.4583333333333333
+41,21,iago,"alas,  poor caitiff!",-0.45
+41,4,cassio,"[aside. ] look,  how he laughs already!",0.0
+41,18,othello,i never knew a woman love man so. ,0.5
+41,22,iago,"alas,  poor rogue! i think,  i'faith,  she loves me. ",-0.45
+41,5,cassio,now he denies it faintly and laughs it out. ,-0.5
+41,19,othello,"do you hear,  cassio? ",0.0
+41,23,iago,"now he importunes himto tell it o'er: go to.   well said,  well said. ",0.0
+41,20,othello,she gives it out that you shall marry her:do you intend it? ,0.0
+41,24,iago,"ha,  ha,  ha!",0.0
+41,6,cassio,"do you triumph,  roman?  do you triumph? ",0.0
+41,21,othello,"i marry her! what?  a customer! i pr'ythee,  bear some charityto my wit.   do not think it so unwholesome: ha,  ha,  ha!",0.0
+41,7,cassio,"so,  so,  so,  so: they laugh that win. ",0.55
+41,22,othello,"faith,  the cry goes that you shall marry her. ",0.0
+41,25,iago,"pr'ythee,  say true. ",0.35
+41,8,cassio,i am a very villain else. ,0.2
+41,26,iago,have you scored me?  well. ,0.0
+41,23,othello,"this is the monkey's own giving out: she is persuaded i willmarry her,  out of her own love and flattery,  not out of mypromise. ",0.4125
+41,9,cassio,iago beckons me.   now he begins the story. ,0.0
+41,24,othello,"she was here even now.   she haunts me in every place.  i was theother day talking on the sea bank with certain venetians,  andthither comes the bauble,  and falls thus about my neck,  ",0.21428571428571427
+41,10,cassio,"crying,  ""o dear cassio!"" as it were: his gesture importsit. ",-0.25
+41,25,othello,"so hangs,  and lolls,  and weeps upon me.   so hales and pulls me:ha,  ha,  ha!",0.0
+41,11,cassio,"now he tells how she plucked him to my chamber.  o,  i seethat nose of yours,  but not that dog i shall throw it to. ",0.0
+41,26,othello,"well,  i must leave her company. ",0.0
+41,12,cassio,before me! look where she comes. ,0.0
+41,27,iago,"'tis such another fitchew! marry,  a perfumed one. what do you mean by this haunting of me? ",-0.15625
+41,13,cassio,"let the devil and his dam haunt you! what did you meanby that same handkerchief you gave me even now?  i was a finefool to take it.  i must take out the work?  a likely piece ofwork that you should find it in your chamber and not know wholeft it there! this is some minx's token,  and i must take out thework?  there,  give it your hobby-horse: wheresoever you had it, i'll take out no work on't. ",0.0
+41,1,bianca,"how now,  my sweet bianca! how now! how now!",0.68359375
+41,14,cassio,"[aside. ] by heaven,  that should be my handkerchief!",0.0
+41,27,othello,did you perceive how he laughed at his vice? ,0.7
+41,2,bianca,"after her,  after her. ",0.0
+41,15,cassio,will you sup there? ,0.0
+41,32,iago,o iago!,0.0
+41,28,othello,and did you see the handkerchief? ,0.0
+41,33,iago,was that mine? ,0.0
+41,29,othello,"yours,  by this hand: and to see how he prizes the foolish womanyour wife! she gave it him,  and he hath given it his whore. ",0.0
+41,34,iago,i would have him nine years a-killing.  a fine woman! a fairwoman! a sweet woman!,0.5442708333333334
+41,30,othello,"nay,  you must forget that. ",0.0
+41,35,iago,"ay,  let her rot,  and perish,  and be damned to-night.   forshe shall not live: no,  my heart is turned to stone.   i strikeit,  and it hurts my hand.  o,  the world hath not a sweetercreature: she might lie by an emperor's side,  and command himtasks. ",-0.06818181818181818
+41,31,othello,"nay,  that's not your way. ",0.0
+41,36,iago,"hang her! i do but say what she is: so delicate with herneedle! an admirable musician! o,  she will sing the savagenessout of a bear! of so high and plenteous wit and invention! ",-0.19296875
+41,32,othello,she's the worse for all this. ,-0.4
+41,37,iago,"o,  a thousand,  a thousand times: and then,  of so gentle acondition!",0.25
+41,33,othello,"ay,  too gentle. ",0.2
+41,38,iago,"nay,  that's certain: but yet the pity of it,  iago!o iago,  the pity of it,  iago!",-0.0035714285714285774
+41,34,othello,"if you are so fond over her iniquity,  give her patent tooffend.   for,  if it touch not you,  it comes near nobody. ",0.1
+41,39,iago,i will chop her into messes.  cuckold me!,0.0
+41,35,othello,"o,  'tis foul in her. ",0.0
+41,40,iago,with mine officer!,0.0
+41,36,othello,that's fouler. ,0.0
+41,41,iago,"get me some poison,  iago.   this night.  i'll not expostulatewith her,  lest her body and beauty unprovide my mind again: this night,  iago. ",0.0
+41,37,othello,"do it not with poison.   strangle her in her bed,  even thebed she hath contaminated. ",0.0
+41,42,iago,"good,  good: the justice of it pleases: very good. ",0.7699999999999999
+41,38,othello,"and for cassio,  let me be his undertaker: you shall hearmore by midnight. ",0.0
+41,43,iago,excellent good.  [a trumpet within. ] what trumpet is that same? ,0.5666666666666667
+41,39,othello,"something from venice,  sure.  'tis lodovicocome from the duke: and,  see,  your wife is with him. ",0.5
+41,44,iago,"save you,  worthy general!",0.19791666666666669
+41,1,lodovico,"with all my heart,  sir. ",0.0
+41,40,othello,the duke and senators of venice greet you. ,0.0
+41,2,lodovico,i kiss the instrument of their pleasures. ,0.0
+41,41,othello,"and what's the news,  good cousin lodovico? ",0.7
+41,1,desdemona,"i am very glad to see you,  signior.  welcome to cyprus. ",0.7250000000000001
+41,45,iago,i thank you.  how does lieutenant cassio? ,0.0
+41,3,lodovico,"lives,  sir. ",0.0
+41,46,iago,"cousin,  there's fall'n between him and my lordan unkind breach: but you shall make all well. ",0.0
+41,2,desdemona,are you sure of that? ,0.5
+41,42,othello,my lord? ,0.0
+41,3,desdemona,"[reads. ] ""this fail you not to do,  as you will,  """,-0.5
+41,43,othello,he did not call.   he's busy in the paper. is there division 'twixt my lord and cassio? ,0.1
+41,4,lodovico,"a most unhappy one: i would do muchto atone them,  for the love i bear to cassio. ",0.13333333333333333
+41,4,desdemona,fire and brimstone!,0.0
+41,44,othello,my lord? ,0.0
+41,5,desdemona,are you wise? ,0.7
+41,45,othello,"what,  is he angry? ",-0.5
+41,6,desdemona,"may be the letter moved him.  for,  as i think,  they do command him home, deputing cassio in his government. ",0.0
+41,5,lodovico,"trust me,  i am glad on't. ",0.5
+41,7,desdemona,indeed!,0.0
+41,46,othello,my lord? ,0.0
+41,8,desdemona,i am glad to see you mad. ,-0.0625
+41,47,othello,"why,  sweet othello,  ",0.35
+41,9,desdemona,devil! [striking her. ],0.5
+41,48,othello,i have not deserved this. ,0.0
+41,10,desdemona,"my lord,  this would not be believed in venice, though i should swear i saw't: 'tis very much:make her amends.   she weeps. ",0.2
+41,6,lodovico,"o devil,  devil!if that the earth could teem with woman's tears, each drop she falls would prove a crocodile.  out of my sight!",0.0
+41,49,othello,i will not stay to offend you. ,0.0
+41,11,desdemona,"truly,  an obedient lady: i do beseech your lordship,  call her back. ",0.2
+41,7,lodovico,mistress!,0.0
+41,50,othello,my lord? ,0.0
+41,12,desdemona,"what would you with her,  sir? ",0.0
+41,51,othello,"who,  i,  my lord? ",0.0
+41,8,lodovico,"ay.   you did wish that i would make her turn:sir,  she can turn,  and turn,  and yet go on, and turn again.   and she can weep,  sir,  weep.  and she's obedient,  as you say,  obedient,  very obedient.  proceed you in your tears.  concerning this,  sir,  o well-painted passion!i am commanded home.  get you away.  i'll send for you anon.  sir,  i obey the mandate, and will return to venice.  hence,  avaunt!cassio shall have my place.  and,  sir,  to-night, i do entreat that we may sup together:you are welcome,  sir,  to cyprus.  goats and monkeys!",0.5800000000000001
+41,52,othello,is this the noble moor whom our full senatecall all-in-all sufficient?  is this the naturewhom passion could not shake?  whose solid virtuethe shot of accident nor dart of chancecould neither graze nor pierce? ,0.31666666666666665
+41,9,lodovico,he is much changed. ,0.2
+41,47,['iago' '########'],are his wits safe?  is he not light of brain? ,0.15
+41,10,lodovico,"he's that he is: i may not breathe my censurewhat he might be,  if what he might he is not,  i would to heaven he were!",0.0
+41,48,iago,"what,  strike his wife!",0.0
+41,11,lodovico,"faith,  that was not so well.   yet would i knewthat stroke would prove the worst!",-1.0
+41,49,iago,"is it his use? or did the letters work upon his blood, and new-create this fault? ",0.0
+41,12,lodovico,"alas,  alas!it is not honesty in me to speakwhat i have seen and known.  you shall observe him.  and his own courses will denote him sothat i may save my speech: do but go after, and mark how he continues. ",0.09999999999999998
+41,50,iago,i am sorry that i am deceived in him. scene ii.  cyprus.  a room in the castle. ,-0.5
+41,13,lodovico,"you have seen nothing,  then? ",0.0
+42,1,othello,"nor ever heard,  nor ever did suspect. ",0.0
+42,1,emilia,"yes,  you have seen cassio and she together. ",0.0
+42,2,othello,"but then i saw no harm,  and then i heardeach syllable that breath made up between them. ",0.0
+42,2,emilia,"what,  did they never whisper? ",0.0
+42,3,othello,"never,  my lord. ",0.0
+42,3,emilia,nor send you out o' the way? ,0.0
+42,4,othello,never. ,0.0
+42,4,emilia,"to fetch her fan,  her gloves,  her mask,  nor nothing? ",0.0
+42,5,othello,"never,  my lord. ",0.0
+42,5,emilia,that's strange. ,-0.05
+42,6,othello,"i durst,  my lord,  to wager she is honest, lay down my soul at stake: if you think other, remove your thought,  it doth abuse your bosom. if any wretch have put this in your head, let heaven requite it with the serpent's curse!for if she be not honest,  chaste,  and true, there's no man happy.   the purest of their wivesis foul as slander. ",0.19490740740740742
+42,6,emilia,"bid her come hither.  go. she says enough.   yet she's a simple bawdthat cannot say as much.  this is a subtle whore, a closet-lock-and-key of villainous secrets:and yet she'll kneel and pray.   i have seen her do't. ",-0.033333333333333326
+42,7,othello,"my lord,  what is your will? ",0.0
+42,1,desdemona,"pray,  chuck,  come hither. ",0.0
+42,8,othello,what is your pleasure? ,0.0
+42,2,desdemona,let me see your eyes.  look in my face. ,0.0
+42,9,othello,what horrible fancy's this? ,-1.0
+42,3,desdemona,"some of your function,  mistress,  [to emilia. ]leave procreants alone and shut the door.  cough,  or cry hem,  if anybody come. your mystery,  your mystery.   nay,  despatch. ",0.0
+42,10,othello,"upon my knees,  what doth your speech import? i understand a fury in your words, but not the words. ",0.0
+42,4,desdemona,"why,  what art thou? ",0.0
+42,11,othello,"your wife,  my lord.   your true and loyal wife. ",0.3416666666666667
+42,5,desdemona,"come,  swear it,  damn thyself.  lest,  being like one of heaven,  the devils themselvesshould fear to seize thee: therefore be double-damned.  swear thou art honest. ",0.6
+42,12,othello,heaven doth truly know it. ,0.0
+42,6,desdemona,heaven truly knows that thou art false as hell. ,-0.4000000000000001
+42,13,othello,"to whom,  my lord?  with whom?  how am i false? ",-0.4000000000000001
+42,7,desdemona,o desdemona! away! away! away!,0.0
+42,14,othello,"alas the heavy day! why do you weep? am i the motive of these tears,  my lord? if haply you my father do suspectan instrument of this your calling back, lay not your blame on me: if you have lost him, why,  i have lost him too. ",-0.21666666666666667
+42,8,desdemona,"had it pleased heavento try me with affliction.   had they rainedall kinds of sores and shames on my bare head.  steeped me in poverty to the very lips.  given to captivity me and my utmost hopes.  i should have found in some place of my soula drop of patience: but,  alas,  to make mea fixed figure for the time,  for scornto point his slow unmoving finger at! yet could i bear that too.   well,  very well:but there,  where i have garnered up my heart.  where either i must live or bear no life,  the fountain from the which my current runs, or else dries up.   to be discarded thence!or keep it as a cistern for foul toadsto knot and gender in! turn thy complexion there, patience,  thou young and rose-lipped cherubin,  ay,  there,  look grim as hell!",-0.0444214876033058
+42,15,othello,i hope my noble lord esteems me honest. ,0.6
+42,9,desdemona,"o,  ay.   as summer flies are in the shambles, that quicken even with blowing.  o thou weed, who art so lovely fair,  and smell'st so sweet, that the sense aches at thee,  would thou hadst ne'er been born!",0.5458333333333333
+42,16,othello,"alas,  what ignorant sin have i committed? ",-0.4
+42,10,desdemona,"was this fair paper,  this most goodly book, made to write ""whore"" upon?  what committed!committed! o thou public commoner!i should make very forges of my cheeks, that would to cinders burn up modesty, did i but speak thy deeds.  what committed!heaven stops the nose at it,  and the moon winks.  the bawdy wind,  that kisses all it meets, is hushed within the hollow mine of earth, and will not hear it.  what committed! impudent strumpet!",0.3531250000000001
+42,17,othello,"by heaven,  you do me wrong. ",-0.5
+42,11,desdemona,are not you a strumpet? ,0.0
+42,18,othello,"no,  as i am a christian:if to preserve this vessel for my lordfrom any other foul unlawful touchbe not to be a strumpet,  i am none. ",-0.125
+42,12,desdemona,"what,  not a whore? ",0.0
+42,19,othello,"no,  as i shall be saved. ",0.0
+42,13,desdemona,is't possible? ,0.0
+42,20,othello,"o,  heaven forgive us!",0.0
+42,14,desdemona,"i cry you mercy then:i took you for that cunning whore of venicethat married with othello.  you,  mistress, that have the office opposite to saint peter, and keep the gate of hell!you,  you,  ay,  you!we have done our course.   there's money for your pains:i pray you,  turn the key,  and keep our counsel. ",0.0625
+42,21,othello,"alas,  what does this gentleman conceive?  how do you,  madam?  how do you,  my good lady? ",0.14999999999999997
+42,7,emilia,"faith,  half asleep. ",-0.16666666666666666
+42,15,desdemona,"good madam,  what's the matter with my lord? ",0.7
+42,8,emilia,with who? ,0.0
+42,16,desdemona,"why,  with my lord,  madam. ",0.0
+42,9,emilia,who is thy lord? ,0.0
+42,17,desdemona,"he that is yours,  sweet lady. ",0.35
+42,10,emilia,"i have none: do not talk to me,  emilia.  i cannot weep.   nor answer have i nonebut what should go by water.  pr'ythee,  to-nightlay on my bed my wedding sheets,  remember.   and call thy husband hither. ",0.0
+42,18,desdemona,here's a change indeed!,0.0
+42,11,emilia,"'tis meet i should be used so,  very meet. how have i been behaved,  that he might stickthe small'st opinion on my least misuse? ",-0.11666666666666665
+42,19,desdemona,"what is your pleasure,  madam?  how is't with you? ",0.0
+42,1,iago,"i cannot tell.  those that do teach young babesdo it with gentle means and easy tasks:he might have chid me so.   for in good faith, i am a child to chiding. ",0.35833333333333334
+42,20,desdemona,"what's the matter,  lady? ",0.0
+42,2,iago,"alas,  iago,  my lord hath so bewhored her, thrown such despite and heavy terms upon her, as true hearts cannot bear. ",-0.06250000000000003
+42,12,emilia,"am i that name,  iago? ",0.0
+42,21,desdemona,"what name,  fair lady? ",0.7
+42,3,iago,such as she says my lord did say i was. ,0.0
+42,22,desdemona,he called her whore: a beggar in his drinkcould not have laid such terms upon his callet. ,0.0
+42,13,emilia,why did he so? ,0.0
+42,4,iago,i do not know.   i am sure i am none such. ,0.25
+42,23,desdemona,"do not weep,  do not weep: alas the day!",-0.5
+42,5,iago,"hath she forsook so many noble matches, her father,  and her country,  and her friends, to be called whore?  would it not make one weep? ",0.55
+42,14,emilia,it is my wretched fortune. ,0.0
+42,24,desdemona,beshrew him for't!how comes this trick upon him? ,0.0
+42,6,iago,"nay,  heaven doth know. ",0.0
+42,25,desdemona,"i will be hanged,  if some eternal villain, some busy and insinuating rogue, some cogging,  cozening slave,  to get some office, have not devised this slander.   i'll be hanged else. ",0.1
+42,15,emilia,"fie,  there is no such man.   it is impossible. ",-0.3333333333333333
+42,7,iago,"if any such there be,  heaven pardon him!",0.0
+42,26,desdemona,"a halter pardon him! and hell gnaw his bones!why should he call her whore?  who keeps her company? what place?  what time?  what form?  what likelihood? the moor's abused by some most villainous knave, some base notorious knave,  some scurvy fellow: o heaven,  that such companions thouedst unfold, and put in every honest hand a whipto lash the rascals naked through the worldeven from the east to the west!",0.05833333333333332
+42,16,emilia,speak within door. ,0.0
+42,8,iago,"o,  fie upon them! some such squire he wasthat turned your wit the seamy side without, and made you to suspect me with the moor. ",0.0
+42,17,emilia,you are a fool.   go to. ,0.0
+42,9,iago,"alas,  iago, what shall i do to win my lord again? good friend,  go to him.   for by this light of heaven, i know not how i lost him.  here i kneel: if e'er my will did trespass 'gainst his love, either in discourse of thought or actual deed.  or that mine eyes,  mine ears,  or any sense, delighted them in any other form.  or that i do not yet,  and ever did, and ever will,  though he do shake me offto beggarly divorcement,  love him dearly, comfort forswear me! unkindness may do much.  and his unkindness may defeat my life, but never taint my love.  i cannot say ""whore, "" it does abhor me now i speak the word.  to do the act that might the addition earnnot the world's mass of vanity could make me. ",0.35454545454545455
+42,27,desdemona,"i pray you,  be content.   'tis but his humour:the business of the state does him offence, and he does chide with you. ",0.0
+42,10,iago,"if 'twere no other,  ",0.0625
+42,28,desdemona,"'tis but so,  i warrant. hark,  how these instruments summon to supper!the messengers of venice stay the meat:go in,  and weep not.   all things shall be well. how now,  roderigo!",0.0
+42,11,iago,i do not find that thou dealest justly with me. ,0.0
+42,1,roderigo,what in the contrary? ,0.0
+42,12,iago,"every day thou daffest me with some device,  iago.   and rather, as it seems to me now,  keepest from me all conveniency thansuppliest me with the least advantage of hope.  i will indeedno longer endure it.   nor am i yet persuaded to put up inpeace what already i have foolishly suffered. ",-0.3
+42,2,roderigo,"will you hear me,  roderigo? ",0.0
+42,13,iago,"faith,  i have heard too much.   for your words and performancesare no kin together. ",0.2
+42,3,roderigo,you charge me most unjustly. ,0.5
+42,14,iago,"with naught but truth.  i have wasted myself out of my means. the jewels you have had from me to deliver to desdemona wouldhalf have corrupted a votarist: you have told me she hathreceived them,  and returned me expectations and comforts ofsudden respect and acquaintance.   but i find none. ",-0.2
+42,4,roderigo,well.   go to.   very well. ,0.2
+42,15,iago,"very well! go to! i cannot go to,  man.   nor 'tis not very well:nay,  i say 'tis very scurvy,  and begin to find myself fobbedin it. ",0.13749999999999998
+42,5,roderigo,very well. ,0.2
+42,16,iago,"i tell you 'tis not very well.  i will make myself known todesdemona: if she will return me my jewels,  i will give overmy suit and repent my unlawful solicitation.   if not,  assureyourself i will seek satisfaction of you. ",-0.1
+42,6,roderigo,you have said now. ,0.0
+42,17,iago,"ay,  and said nothing but what i protest intendment of doing. ",0.0
+42,7,roderigo,"why,  now i see there's mettle in thee.   and even from thisinstant do build on thee a better opinion than ever before. give me thy hand,  roderigo.  thou hast taken against me a mostjust exception.   but yet,  i protest,  i have dealt most directlyin thy affair. ",0.5
+42,18,iago,it hath not appeared. ,0.0
+42,8,roderigo,"i grant indeed it hath not appeared,  and your suspicion is notwithout wit and judgement.  but,  roderigo,  if thou hast that inthee indeed,  which i have greater reason to believe now thanever,  i mean purpose,  courage,  and valour,  this night showit: if thou the next night following enjoy not desdemona,  takeme from this world with treachery and devise engines for mylife. ",0.11750000000000001
+42,19,iago,"well,  what is it?  is it within reason and compass? ",0.0
+42,9,roderigo,"sir,  there is especial commission come from venice to deputecassio in othello's place. ",0.0
+42,20,iago,is that true?  why then othello and desdemona return again tovenice. ,0.35
+42,10,roderigo,"o,  no.   he goes into mauritania,  and takes away with him thefair desdemona,  unless his abode be lingered here by someaccident: wherein none can be so determinate as the removingof cassio. ",0.0
+42,21,iago,"how do you mean ""removing"" of him? ",-0.3125
+42,11,roderigo,"why,  by making him uncapable of othello's place.   knockingout his brains. ",0.0
+42,22,iago,and that you would have me to do? ,0.0
+42,12,roderigo,"ay,  if you dare do yourself a profit and a right.  he supsto-night with a harlotry,  and thither will i go to him: heknows not yet of his honourable fortune.  if you will watch hisgoing thence,  which i will fashion to fall out between twelveand one,  you may take him at your pleasure: i will be near tosecond your attempt,  and he shall fall between us.  come,  standnot amazed at it,  but go along with me.   i will show you such anecessity in his death that you shall think yourself bound toput it on him.  it is now high supper-time,  and the night grows towaste: about it. ",0.13642857142857143
+42,23,iago,i will hear further reason for this. ,0.0
+42,13,roderigo,and you shall be satisfied. scene iii.  cyprus.  another room in the castle. ,0.5
+42,24,iago,"i do beseech you,  sir,  trouble yourself no further. ",-0.1
+43,1,lodovico,"o,  pardon me.   'twill do me good to walk. ",0.7
+43,1,othello,"madam,  good night.   i humbly thank your ladyship. ",0.24999999999999997
+43,2,lodovico,your honour is most welcome. ,0.65
+43,1,desdemona,"will you walk,  sir?  o,  desdemona,  ",0.0
+43,2,othello,my lord? ,0.0
+43,2,desdemona,get you to bed on the instant.   i will be returnedforthwith: dismiss your attendant there: look't be done. ,0.1
+43,3,othello,"i will,  my lord. ",0.0
+43,3,desdemona,how goes it now?  he looks gentler than he did. ,0.0
+43,1,emilia,"he says he will return incontinent:he hath commanded me to go to bed, and bade me to dismiss you. ",0.0
+43,4,desdemona,dismiss me!,0.0
+43,2,emilia,"it was his bidding.   therefore,  good emilia, give me my nightly wearing,  and adieu:we must not now displease him. ",0.7
+43,5,desdemona,i would you had never seen him!,0.0
+43,3,emilia,"so would not i: my love doth so approve him, that even his stubbornness,  his checks,  his frowns,  pr'ythee,  unpin me,  have grace and favour in them. ",0.5
+43,6,desdemona,i have laid those sheets you bade me on the bed. ,0.0
+43,4,emilia,"all's one.  good faith,  how foolish are our minds! if i do die before thee,  pr'ythee,  shroud mein one of those same sheets. ",0.4375
+43,7,desdemona,"come,  come,  you talk. ",0.0
+43,5,emilia,"my mother had a maid called barbara.  she was in love.   and he she loved proved madand did forsake her: she had a song of ""willow"".  an old thing 'twas,  but it expressed her fortune, and she died singing it: that song to-nightwill not go from my mind.   i have much to dobut to go hang my head all at one side, and sing it like poor barbara.  pr'ythee,  despatch. ",0.22000000000000003
+43,8,desdemona,shall i go fetch your night-gown? ,0.0
+43,6,emilia,"no,  unpin me here.  this lodovico is a proper man. ",0.0
+43,9,desdemona,a very handsome man. ,0.65
+43,7,emilia,he speaks well. ,0.0
+43,10,desdemona,i know a lady in venice would have walked barefoot topalestine for a touch of his nether lip. ,0.0
+43,8,emilia,"  ""the poor soul sat sighing by a sycamore tree,     sing all a green willow.    her hand on her bosom,  her head on her knee,     sing willow,  willow,  willow:  the fresh streams ran by her,  and murmured her moans.      sing willow,  willow,  willow.    her salt tears fell from her,  and softened the stones.   ""lay by these:-  ""sing willow,  willow,  willow.   ""pr'ythee,  hie thee.   he'll come anon:   ""sing all a green willow must be my garland.     let nobody blame him.   his scorn i approve,  ""nay,  that's not next.  hark! who is't that knocks? ",-0.10000000000000002
+43,11,desdemona,it's the wind. ,0.0
+43,9,emilia,"  ""i called my love false love.   but what said he then?     sing willow,  willow,  willow:  'if i court mo women,  you'll couch with mo men. '""so get thee gone.   good night.  mine eyes do itch.  doth that bode weeping? ",0.32499999999999996
+43,12,desdemona,'tis neither here nor there. ,0.0
+43,10,emilia,"i have heard it said so.  o,  these men,  these men! dost thou in conscience think,  tell me,  emilia,  that there be women do abuse their husbandsin such gross kind? ",0.19999999999999998
+43,13,desdemona,"there be some such,  no question. ",0.0
+43,11,emilia,wouldst thou do such a deed for all the world? ,0.0
+43,14,desdemona,"why,  would not you? ",0.0
+43,12,emilia,"no,  by this heavenly light!",0.5
+43,15,desdemona,nor i neither by this heavenly light.   i might do't as welli' the dark. ,0.125
+43,13,emilia,wouldst thou do such a deed for all the world? ,0.0
+43,16,desdemona,"in troth,  i think i should.   and undo't when i had done.  marry, i would not do such a thing for a joint-ring,  nor for measuresof lawn,  nor for gowns,  petticoats,  nor caps,  nor any pettyexhibition.   but,  for the whole world why,  who would not makeher husband a cuckold to make him a monarch?  i should venturepurgatory for't. ",0.1
+43,14,emilia,"in troth,  i think thou wouldst not. ",0.0
+43,15,emilia,"beshrew me,  if i would do such a wrong for the whole world. ",-0.09999999999999999
+43,17,desdemona,"why,  the wrong is but a wrong i' the world.   and having theworld for your labour,  'tis a wrong in your own world,  and youmight quickly make it right. ",-0.046825396825396826
+43,16,emilia,i do not think there is any such woman. ,0.0
+43,18,desdemona,"yes,  a dozen.   and as many to the vantage as would storethe world they played for. but i do think it is their husbands' faultsif wives do fall: say that they slack their dutiesand pour our treasures into foreign laps.  or else break out in peevish jealousies, throwing restraint upon us.   or say they strike us, or scant our former having in despite.  why,  we have galls.   and though we have some grace, yet have we some revenge.  let husbands knowtheir wives have sense like them: they see and smelland have their palates both for sweet and sour, as husbands have.  what is it that they dowhen they change us for others?  is it sport? i think it is: and doth affection breed it? i think it doth: is't frailty that thus errs? it is so too.  and have not we affections, desires for sport,  and frailty,  as men have? then let them use us well: else let them knowthe ills we do their ills instruct us so. ",0.029166666666666657
+43,17,emilia,"good-night,  good-night: heaven me such usage send, not to pick bad from bad,  but by bad mend!act v. scene i.  cyprus.  a street. ",-0.5249999999999999
+43,19,desdemona,"here,  stand behind this bulk.   straight will he come:wear thy good rapier bare,  and put it home:quick,  quick.   fear nothing.   i'll be at thy elbow:it makes us,  or it mars us.   think on that, and fix most firm thy resolution. ",0.16904761904761906
+51,1,iago,be near at hand.   i may miscarry in't. ,0.1
+51,1,roderigo,"here,  at thy hand: be bold,  and take thy stand. ",0.3333333333333333
+51,2,iago,"i have no great devotion to the deed.  and yet he hath given me satisfying reasons: 'tis but a man gone.  forth,  my sword.   he dies. ",0.04999999999999999
+51,2,roderigo,"i have rubbed this young quat almost to the sense, and he grows angry.  now,  whether he kill cassio, or cassio him,  or each do kill the other, every way makes my gain: live roderigo, he calls me to a restitution largeof gold and jewels that i bobbed from him, as gifts to desdemona.  it must not be: if cassio do remain, he hath a daily beauty in his lifethat makes me ugly.   and besides,  the moormay unfold me to him.   there stand i in much peril.  no,  he must die.  but,  so,  i hear him coming. ",-0.12694805194805195
+51,3,iago,"i know his gait.   'tis he.  villain,  thou diest!",0.0
+51,3,roderigo,"that thrust had been mine enemy indeed, but that my coat is better than thou know'st:i will make proof of thine. ",0.5
+51,1,cassio,"o,  i am slain!",0.0
+51,4,roderigo,"i am maimed forever.  help,  ho! murder! murder!",0.0
+51,2,cassio,the voice of cassio: iago keeps his word. ,0.0
+51,1,othello,"o,  villain that i am!",0.0
+51,5,roderigo,it is even so. ,0.0
+51,2,othello,"o,  help,  ho! light! a surgeon!",0.625
+51,3,cassio,"'tis he: o brave iago,  honest and just, that hast such noble sense of thy friend's wrong!thou teachest me,  minion,  your dear lies dead, and your unblessed fate hies.  strumpet,  i come!forth of my heart those charms,  thine eyes,  are blotted.  thy bed,  lust-stained,  shall with lust's blood be spotted. ",0.3083333333333334
+51,3,othello,"what,  ho! no watch?  no passage?  murder! murder!",0.0
+51,4,cassio,'tis some mischance.   the cry is very direful. ,0.2
+51,1,gratiano,"o,  help!",0.0
+51,5,cassio,hark!,0.0
+51,1,lodovico,o wretched villain!,0.0
+51,6,roderigo,two or three groan: it is a heavy night:these may be counterfeits: let's think't unsafeto come in to the cry without more help. ,0.15
+51,2,lodovico,"here's one comes in his shirt,  with light and weapons. ",0.4
+51,7,roderigo,that's one of them. ,0.0
+51,2,gratiano,who's there?  whose noise is this that cries on murder? ,0.0
+51,4,iago,we do not know. ,0.0
+51,3,lodovico,what are you here that cry so grievously? ,-0.8
+51,5,iago,"here,  here! for heaven's sake,  help me!",0.0
+51,6,cassio,what's the matter? ,0.0
+51,6,iago,"this is othello's ancient,  as i take it. ",0.0
+51,3,gratiano,the same indeed.   a very valiant fellow. ,0.1
+51,7,iago,"iago?  o,  i am spoiled,  undone by villains!give me some help. ",0.0
+51,7,cassio,"o me,  lieutenant! what villains have done this? ",0.0
+51,8,iago,"i think that one of them is hereabout, and cannot make away. ",0.0
+51,8,cassio,o treacherous villains! what are you there? come in and give some help. ,0.0
+51,9,iago,"o,  help me here!",0.0
+51,9,cassio,o murderous slave! o villain!,0.0
+51,10,iago,o damned iago! o inhuman dog!,0.0
+51,8,roderigo,kill men i' the dark! where be these bloody thieves?  how silent is this town! ho! murder! murder! what may you be?  are you of good or evil? ,-0.2575
+51,11,iago,"as you shall prove us,  praise us. ",0.0
+51,4,lodovico,signior lodovico? ,0.0
+51,12,iago,"he,  sir. ",0.0
+51,5,lodovico,i cry you mercy.  here's cassio hurt by villains. ,0.0
+51,13,iago,cassio!,0.0
+51,4,gratiano,"how is't,  brother? ",0.0
+51,14,iago,my leg is cut in two. ,0.0
+51,10,cassio,"marry,  heaven forbid! light,  gentlemen: i'll bind it with my shirt. ",0.4
+51,15,iago,"what is the matter,  ho?  who is't that cried? ",0.0
+51,1,bianca,who is't that cried!,0.0
+51,16,iago,"o my dear cassio,  my sweet cassio! o cassio,  cassio,  cassio!",0.546875
+51,2,bianca,"o notable strumpet! cassio,  may you suspectwho they should be that have thus mangled you? ",0.625
+51,17,iago,no. ,0.0
+51,11,cassio,i am sorry to find you thus: i have been to seek you. ,-0.5
+51,5,gratiano,"lend me a garter: so.  o,  for a chair, to bear him easily hence!",0.5416666666666667
+51,18,iago,"alas,  he faints! o cassio,  cassio,  cassio!",-0.625
+51,3,bianca,"gentlemen all,  i do suspect this trashto be a party in this injury.  patience awhile,  good cassio.  come,  come.  lend me a light.  know we this face or no? alas,  my friend and my dear countrymanroderigo?  no: yes,  sure.   o heaven! roderigo. ",0.48125
+51,19,iago,"what,  of venice? ",0.0
+51,6,gratiano,"even he,  sir: did you know him? ",0.0
+51,20,iago,know him! ay. ,0.0
+51,7,gratiano,"signior gratiano?  i cry you gentle pardon.  these bloody accidents must excuse my manners, that so neglected you. ",-0.2166666666666667
+51,21,iago,i am glad to see you. ,0.5
+51,8,gratiano,"how do you,  cassio?  o,  a chair,  a chair!",0.0
+51,22,iago,roderigo!,0.0
+51,9,gratiano,"he,  he,  'tis he.    o,  that's well said.   the chair: some good man bear him carefully from hence.  i'll fetch the general's surgeon.  for you,  mistress, save you your labour.  he that lies slain here,  cassio, was my dear friend: what malice was between you? ",0.21666666666666667
+51,23,iago,none in the world.   nor do i know the man. ,0.0
+51,12,cassio,"what,  look you pale?  o,  bear him out o' the air. stay you,  good gentlemen.  look you pale,  mistress?  do you perceive the gastness of her eye?  nay,  if you stare,  we shall hear more anon.  behold her well.   i pray you,  look upon her:do you see,  gentlemen?  nay,  guiltiness will speakthough tongues were out of use. ",0.195
+51,24,iago,"'las,  what's the matter?  what's the matter,  husband? ",0.0
+51,1,emilia,"cassio hath here been set on in the darkby roderigo,  and fellows that are 'scaped:he's almost slain,  and roderigo dead. ",-0.2
+51,25,iago,"alas,  good gentleman! alas,  good cassio!",0.2375
+51,2,emilia,"this is the fruit of whoring.  pr'ythee,  emilia, go know of cassio where he supped to-night.  what,  do you shake at that? ",0.0
+51,26,iago,he supped at my house.   but i therefore shake not. ,0.0
+51,4,bianca,"o,  did he so?  i charge you,  go with me. ",0.0
+51,27,iago,"fie,  fie upon thee,  strumpet!",0.0
+51,3,emilia,"i am no strumpet,  but of life as honestas you that thus abuse me. ",0.0
+51,5,bianca,as i! foh! fie upon thee!,0.0
+51,4,emilia,"kind gentlemen,  let's go see poor cassio dressed.  come,  mistress,  you must tell's another tale.  emilia,  run you to the citadel, and tell my lord and lady what hath happed.  will you go on afore?  [aside. ] this is the nightthat either makes me or fordoes me quite. [exeunt. ]scene ii.  cyprus.  a bedchamber in the castle: desdemona in bedasleep.   a light burning. [enter othello. ]",0.19999999999999998
+51,28,iago,"it is the cause,  it is the cause,  my soul,  let me not name it to you,  you chaste stars! it is the cause.  yet i'll not shed her blood.  nor scar that whiter skin of hers than snow, and smooth as monumental alabaster. yet she must die,  else she'll betray more men. put out the light,  and then put out the light:if i quench thee,  thou flaming minister, i can again thy former light restore, should i repent me: but once put out thy light, thou cunning'st pattern of excelling nature, i know not where is that promethean heatthat can thy light relume.  when i have plucked thy rose, i cannot give it vital growth again, it must needs wither: i'll smell it on the tree.  o,  balmy breath,  that dost almost persuadejustice to break her sword! one more,  one more.   be thus when thou art dead,  and i will kill thee, and love thee after.  one more,  and this the last.  so sweet was ne'er so fatal.  i must weep, but they are cruel tears: this sorrow's heavenly.  it strikes where it doth love.  she wakes. ",0.24874999999999997
+52,1,othello,who's there?  othello? ,0.0
+52,1,desdemona,"ay,  desdemona. ",0.0
+52,2,othello,"will you come to bed,  my lord? ",0.0
+52,2,desdemona,"have you prayed to-night,  desdemona? ",0.0
+52,3,othello,"ay,  my lord. ",0.0
+52,3,desdemona,"if you bethink yourself of any crimeunreconciled as yet to heaven and grace, solicit for it straight. ",0.2
+52,4,othello,"alack,  my lord,  what may you mean by that? ",-0.3125
+52,4,desdemona,"well,  do it,  and be brief.   i will walk by. i would not kill thy unprepared spirit.  no,  heaven forfend! i would not kill thy soul. ",0.0
+52,5,othello,talk you of killing? ,0.0
+52,5,desdemona,"ay,  i do. ",0.0
+52,6,othello,then heaven have mercy on me!,0.0
+52,6,desdemona,"amen,  with all my heart!",0.0
+52,7,othello,"if you say so,  i hope you will not kill me. ",0.0
+52,7,desdemona,hum!,0.0
+52,8,othello,"and yet i fear you.   for you are fatal thenwhen your eyes roll so: why i should fear i know not, since guiltiness i know not.   but yet i feel i fear. ",0.0
+52,8,desdemona,think on thy sins. ,0.0
+52,9,othello,they are loves i bear to you. ,0.0
+52,9,desdemona,"ay,  and for that thou diest. ",0.0
+52,10,othello,"that death's unnatural that kills for loving.  alas,  why gnaw you so your nether lip? some bloody passion shakes your very frame:these are portents.   but yet i hope,  i hope, they do not point on me. ",-0.10000000000000002
+52,10,desdemona,"peace,  and be still!",0.0
+52,11,othello,i will so.  what's the matter? ,0.0
+52,11,desdemona,that handkerchief which i so loved and gave theethou gav'st to cassio. ,0.7
+52,12,othello,"no,  by my life and soul!send for the man,  and ask him. ",0.0
+52,12,desdemona,"sweet soul,  take heed, take heed of perjury.   thou'rt on thy death-bed. ",0.35
+52,13,othello,"ay,  but not yet to die. ",0.0
+52,13,desdemona,"yes,  presently:therefore confess thee freely of thy sin.  for to deny each article with oathcannot remove nor choke the strong conceptionthat i do groan withal.  thou art to die. ",0.41666666666666663
+52,14,othello,"then,  lord have mercy on me!",0.0
+52,14,desdemona,"i say,  amen. ",0.0
+52,15,othello,and have you mercy too! i never didoffend you in my life.   never loved cassiobut with such general warranty of heavenas i might love: i never gave him token. ,0.05000000000000002
+52,15,desdemona,"by heaven,  i saw my handkerchief in 's hand. o perjured woman! thou dost stone my heart, and mak'st me call what i intend to doa murder,  which i thought a sacrifice:i saw the handkerchief. ",0.0
+52,16,othello,he found it then.  i never gave it him: send for him hither.  let him confess a truth. ,0.0
+52,16,desdemona,he hath confessed. ,0.0
+52,17,othello,"what,  my lord? ",0.0
+52,17,desdemona,that he hath used thee. ,0.0
+52,18,othello,how?  unlawfully? ,0.0
+52,18,desdemona,ay. ,0.0
+52,19,othello,he will not say so. ,0.0
+52,19,desdemona,"no,  his mouth is stopped.  honest iago hath ta'en order for't. ",0.6
+52,20,othello,"o,  my fear interprets! what,  is he dead? ",-0.2
+52,20,desdemona,"had all his hairs been lives,  my great revengehad stomach for them all. ",0.8
+52,21,othello,"alas,  he is betrayed,  and i undone!",-0.5
+52,21,desdemona,"out,  strumpet! weep'st thou for him to my face? ",0.0
+52,22,othello,"o,  banish me,  my lord,  but kill me not!",0.0
+52,22,desdemona,"down,  strumpet!",-0.19444444444444448
+52,23,othello,kill me to-morrow.   let me live to-night!,0.17045454545454544
+52,23,desdemona,"nay,  if you strive,  ",0.0
+52,24,othello,but half an hour!,-0.20833333333333331
+52,24,desdemona,"being done,  there is no pause. ",0.0
+52,25,othello,but while i say one prayer!,0.0
+52,25,desdemona,it is too late. ,-0.3
+52,26,othello,"my lord,  my lord! what,  ho! my lord,  my lord!",0.0
+52,1,emilia,"what noise is this?  not dead?  not yet quite dead? i that am cruel am yet merciful.  i would not have thee linger in thy pain: so,  so. ",-0.3666666666666667
+52,27,othello,"what,  ho! my lord,  my lord!",0.0
+52,2,emilia,who's there? ,0.0
+52,28,othello,"[within. ] o,  good my lord,  i would speak a word with you!",0.875
+52,3,emilia,"yes: 'tis emilia: by and by.  she's dead.  'tis like she comes to speak of cassio's death.  the noise was high.  ha! no more moving? still as the grave.  shall she come in?  were't good?  i think she stirs again: no.  what's best to do? if she come in,  she'll sure speak to my wife:my wife! my wife! what wife?  i have no wife. o,  insupportable! o heavy hour!methinks it should be now a huge eclipseof sun and moon,  and that the affrighted globeshould yawn at alteration. ",0.3283203125
+52,29,othello,"[within. ] i do beseech youthat i may speak with you,  o,  good my lord!",0.875
+52,4,emilia,"i had forgot thee: o,  come in,  emilia: soft,  by and by: let me the curtains draw.  where art thou?  what's the matter with thee now? ",0.07500000000000001
+52,30,othello,"o,  my good lord,  yonder's foul murders done!",0.875
+52,5,emilia,"what,  now? ",0.0
+52,31,othello,"but now,  my lord. ",0.0
+52,6,emilia,it is the very error of the moon.  she comes more nearer earth than she was wontand makes men mad. ,0.024999999999999984
+52,32,othello,"cassio,  my lord,  hath killed a young venetiancalled roderigo. ",-0.05
+52,7,emilia,roderigo killed? and cassio killed? ,-0.2
+52,33,othello,"no,  cassio is not killed. ",0.1
+52,8,emilia,"not cassio killed! then murder's out of tune, and sweet revenge grows harsh. ",-0.03333333333333335
+52,34,othello,"o,  falsely,  falsely murdered!",-0.5000000000000001
+52,26,desdemona,"alas,  what cry is that? ",-0.4
+52,9,emilia,that! what? ,0.0
+52,35,othello,"out,  and alas! that was my lady's voice.  help! help,  ho! help! o lady,  speak again!sweet desdemona! o sweet mistress,  speak!",-0.28125
+52,10,emilia,a guiltless death i die. ,0.0
+52,27,desdemona,"o,  who hath done this deed? ",0.0
+52,11,emilia,"nobody.   i myself.  farewell:commend me to my kind lord: o,  farewell!",0.33125
+52,28,desdemona,"why,  how should she be murdered? ",0.0
+52,36,othello,"alas,  who knows? ",-0.4
+52,12,emilia,you heard her say herself it was not i. ,0.0
+52,37,othello,she said so: i must needs report the truth. ,0.0
+52,13,emilia,"she's like a liar,  gone to burning hell:'twas i that killed her. ",-0.2
+52,38,othello,"o,  the more angel she, and you the blacker devil!",0.625
+52,14,emilia,"she turned to folly,  and she was a whore. ",0.0
+52,39,othello,"thou dost belie her,  and thou art a devil. ",0.0
+52,15,emilia,she was false as water. ,-0.4000000000000001
+52,40,othello,"thou art rash as fire,  to saythat she was false: o,  she was heavenly true!",0.029166666666666636
+52,16,emilia,"cassio did tup her.   ask thy husband else. o,  i were damned beneath all depth in hell, but that i did proceed upon just groundsto this extremity.  thy husband knew it all. ",0.0
+52,41,othello,my husband!,0.0
+52,17,emilia,thy husband. ,0.0
+52,42,othello,that she was false to wedlock? ,-0.4000000000000001
+52,18,emilia,"ay,  with cassio.  nay,  had she been true, if heaven would make me such another worldof one entire and perfect chrysolite, ied not have sold her for it. ",0.3375
+52,43,othello,my husband!,0.0
+52,19,emilia,"ay,  'twas he that told me first:an honest man he is,  and hates the slimethat sticks on filthy deeds. ",-0.10000000000000003
+52,44,othello,my husband!,0.0
+52,20,emilia,"what needs this iterance,  woman?  i say thy husband. ",0.0
+52,45,othello,"o mistress,  villainy hath made mocks with love! my husband say that she was false!",0.062499999999999944
+52,21,emilia,"he,  woman.  i say thy husband: dost understand the word? my friend,  thy husband,  honest,  honest iago. ",0.6
+52,46,othello,"if he say so,  may his pernicious soulrot half a grain a day! he lies to the heart:she was too fond of her most filthy bargain. ",-0.16944444444444443
+52,22,emilia,ha!,0.0
+52,47,othello,do thy worst:this deed of thine is no more worthy heaventhan thou wast worthy her. ,0.13888888888888887
+52,23,emilia,"peace,  you were best. ",1.0
+52,48,othello,"thou hast not half that power to do me harmas i have to be hurt.  o gull! o dolt!as ignorant as dirt! thou hast done a deed,  i care not for thy sword.   i'll make thee known, though i lost twenty lives.  help! help,  ho! help!the moor hath killed my mistress! murder,  murder!",-0.054524739583333356
+52,24,emilia,"what is the matter?  how now,  general!",0.06250000000000003
+52,1,montano,"o,  are you come,  iago?  you have done well, that men must lay their murders on your neck. ",0.0
+52,25,emilia,what is the matter? ,0.0
+52,1,gratiano,"disprove this villain,  if thou be'st a man:he says thou told'st him that his wife was false:i know thou didst not,  thou'rt not such a villain:speak,  for my heart is full. ",0.175
+52,26,emilia,i told him what i thought.   and told no morethan what he found himself was apt and true. ,0.475
+52,1,iago,but did you ever tell him she was false? ,-0.4000000000000001
+52,27,emilia,i did. ,0.0
+52,2,iago,"you told a lie.   an odious,  damned lie.  upon my soul,  a lie.   a wicked lie: she false with cassio! did you say with cassio? ",-0.5000000000000001
+52,28,emilia,"with cassio,  mistress.  go to,  charm your tongue. ",0.0
+52,3,iago,"i will not charm my tongue.   i am bound to speak:my mistress here lies murdered in her bed,  all. o heavens forfend!",0.0
+52,29,emilia,and your reports have set the murder on. ,0.0
+52,30,emilia,"nay,  stare not,  masters: it is true,  indeed. ",0.35
+52,49,othello,'tis a strange truth. ,-0.05
+52,2,gratiano,o monstrous act!,0.0
+52,2,montano,"villany,  villany,  villany!i think upon't,  i think,  i smell't.   o villany! i thought so then.   i'll kill myself for grief: o villany,  villany!",-0.36875
+52,31,emilia,"what,  are you mad?  i charge you,  get you home. ",-0.625
+52,4,iago,"good gentlemen,  let me have leave to speak:'tis proper i obey him,  but not now.  perchance,  iago,  i will ne'er go home. ",0.35
+52,32,emilia,o! o! o! ,0.0
+52,50,othello,"nay,  lay thee down and roar.  for thou hast killed the sweetest innocentthat e'er did lift up eye. ",-0.1777777777777778
+52,33,emilia,"[rising. ] o,  she was foul! i scarce did know you,  uncle.   there lies your niece, whose breath,  indeed,  these hands have newly stopped:i know this act shows horrible and grim. ",-0.6212121212121212
+52,51,othello,"poor desdemona! i am glad thy father's dead:thy match was mortal to him,  and pure griefshore his old thread in twain: did he live now, this sight would make him do a desperate turn, yea,  curse his better angel from his side, and fall to reprobance. ",0.05009276437847866
+52,3,gratiano,"'tis pitiful.   but yet iago knowsthat she with cassio hath the act of shamea thousand times committed.   cassio confessed it:and she did gratify his amorous workswith that recognizance and pledge of lovewhich i first gave her.   i saw it in his hand:it was a handkerchief,  an antique tokenmy father gave my mother. ",0.25
+52,52,othello,o heaven! o heavenly powers!,0.0
+52,34,emilia,"come,  hold your peace. ",0.0
+52,5,iago,"'twill out,  'twill out: i peace!no,  i will speak as liberal as the north:let heaven and men and devils,  let them all, all,  all,  cry shame against me,  yet i'll speak. ",0.0
+52,35,emilia,"be wise,  and get you home. ",0.7
+52,6,iago,i will not. ,0.0
+52,36,emilia,fie!your sword upon a woman? ,0.0
+52,4,gratiano,"o thou dull moor! that handkerchief thou speak'st ofi found by fortune and did give my husband.  for often with a solemn earnestness,  more than,  indeed,  belonged to such a trifle,  he begged of me to steal it. ",0.045138888888888874
+52,37,emilia,villanous whore!,0.0
+52,7,iago,"she give it cassio! no,  alas,  i found it, and i did give't my husband. ",0.2
+52,38,emilia,"filth,  thou liest!",0.0
+52,8,iago,"by heaven,  i do not,  i do not,  gentlemen.  o murderous coxcomb! what should such a fooldo with so good a wife? ",0.35
+52,39,emilia,"are there not stones in heavenbut what serve for thunder?  precious villain![iago stabs emilia,  and then runs out. ]",0.5
+52,53,othello,"the woman falls.   sure,  he hath killed his wife. ",0.15
+52,5,gratiano,"ay,  ay: o,  lay me by my mistress' side. ",0.05
+52,40,emilia,"he's gone,  but his wife's killed. ",-0.2
+52,6,gratiano,"'tis a notorious villain.  take you this weapon, which i have here recovered from the moor:come,  guard the door without.   let him not pass, but kill him rather.  i'll after that same villain, for 'tis a damned slave. ",0.0
+52,23,montano,"i am not valiant neither, but every puny whipster gets my sword: but why should honour outlive honesty? let it go all. ",0.0
+52,54,othello,"what did thy song bode,  lady? hark,  canst thou hear me?  i will play the swan, and die in music: [sings. ] ""willow,  willow,  willow. moor,  she was chaste.   she loved thee,  cruel moor.  so come my soul to bliss,  as i speak true.  so speaking as i think,  i die,  i die. ",-0.17500000000000002
+52,41,emilia,"i have another weapon in this chamber.  it is a sword of spain,  the ice-brook's temper: o,  here it is.  uncle,  i must come forth. ",0.05
+52,55,othello,"[within. ] if thou attempt it,  it will cost thee dear:thou hast no weapon,  and perforce must suffer. ",0.0
+52,7,gratiano,"look in upon me then,  and speak with me, or,  naked as i am,  i will assault thee. ",0.0
+52,56,othello,what is the matter? ,0.0
+52,8,gratiano,"well,  thou dost best. ",1.0
+52,57,othello,where is this rash and most unfortunate man? ,0.0
+52,1,lodovico,that's he that was othello.   here i am. ,0.0
+52,58,othello,where is that viper?  bring the villain forth. ,0.0
+52,2,lodovico,"i look down towards his feet.   but that's a fable.  if that thou be'st a devil,  i cannot kill thee. [wounds iago. ]",-0.15555555555555559
+52,59,othello,wrench his sword from him. ,0.0
+52,3,lodovico,"i bleed,  sir,  but not killed. ",0.1
+52,9,iago,"i am not sorry neither: ied have thee live.  for,  in my sense,  'tis happiness to die. ",0.3621212121212121
+52,60,othello,"o thou othello,  that wert once so good, fall'n in the practice of a damned slave, what shall be said to thee? ",0.7
+52,4,lodovico,"why,  anything.  an honourable murderer,  if you will.  for naught did i in hate,  but all in honour. ",-0.8
+52,61,othello,this wretch hath part confessed his villany:did you and he consent in cassio's death? ,0.0
+52,5,lodovico,ay. ,0.0
+52,62,othello,"dear general,  i never gave you cause. ",0.05000000000000002
+52,1,cassio,"i do believe it,  and i ask your pardon. will you,  i pray,  demand that demi-devilwhy he hath thus ensnared my soul and body? ",0.0
+52,63,othello,"demand me nothing: what you know,  you know:from this time forth i never will speak word. ",0.0
+52,10,iago,"what,  not to pray? ",0.0
+52,6,lodovico,torments will ope your lips. ,0.0
+52,64,othello,"sir,  you shall understand what hath befall'n, which,  as i think,  you know not.  here is a letterfound in the pocket of the slain roderigo, and here another: the one of them importsthe death of cassio to be undertookby roderigo. ",0.0
+52,7,lodovico,o villain!,0.0
+52,65,othello,most heathenish and most gross!,0.3333333333333333
+52,2,cassio,"now here's another discontented paper, found in his pocket too.   and this,  it seems, roderigo meant to have sent this damned villain.  but that,  belike,  iago in the interimcame in and satisfied him. ",0.5
+52,8,lodovico,"o the pernicious caitiff! how came you,  cassio,  by that handkerchiefthat was my wife's? ",0.0
+52,66,othello,i found it in my chamber.  and he himself confessed but even nowthat there he dropped it for a special purposewhich wrought to his desire. ,0.35714285714285715
+52,3,cassio,o fool! fool! fool!,0.0
+52,67,othello,"there is besides in roderigo's letter,  how he upbraids iago,  that he made himbrave me upon the watch.   whereon it camethat i was cast: and even but now he spake, after long seeming dead,  iago hurt him, iago set him on. ",-0.125
+52,4,cassio,"you must forsake this room,  and go with us:your power and your command is taken off, and cassio rules in cyprus.  for this slave,  if there be any cunning crueltythat can torment him much and hold him long, it shall be his.  you shall close prisoner rest, till that the nature of your fault be knownto the venetian state.  come,  bring away. ",0.05000000000000001
+52,9,lodovico,"soft you.   a word or two before you go. i have done the state some service,  and they know't.  no more of that.  i pray you,  in your letters, when you shall these unlucky deeds relate, speak of me as i am.   nothing extenuate, nor set down aught in malice: then must you speakof one that loved not wisely,  but too well.  of one not easily jealous,  but,  being wrought, perplexed in the extreme.   of one whose hand, like the base judean,  threw a pearl awayricher than all his tribe.   of one whose subdued eyes, albeit unused to the melting mood, drop tears as fast as the arabian treestheir medicinal gum.  set you down this.  and say besides,  that in aleppo once, where a malignant and a turbaned turkbeat a venetian and traduced the state, i took by the throat the circumcised dogand smote him thus. ",-0.05934343434343436
+52,68,othello,o bloody period!,-1.0
+52,10,lodovico,all that's spoke is marred. ,0.0
+52,9,gratiano,"i kissed thee ere i killed thee: no way but this, killing myself,  to die upon a kiss.  [falling upom desdemona. ]",-0.2
+52,69,othello,"this did i fear,  but thought he had no weapon.  for he was great of heart.  ",0.8
+52,5,cassio,"[to iago. ] o spartan dog, more fell than anguish,  hunger,  or the sea!look on the tragic loading of this bed.  this is thy work: the object poisons sight.  let it be hid.  gratiano,  keep the house, and seize upon the fortunes of the moor, for they succeed on you.  to you,  lord governor, remains the censure of this hellish villain.  the time,  the place,  the torture,  o,  enforce it!myself will straight aboard.   and to the statethis heavy act with heavy heart relate. ",-0.09
