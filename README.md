@@ -2,8 +2,8 @@ To run:
 python othello-sentiment.py -f othello.fasta 
 
 optional args
--A for act {1, 5}
--S for scene {1, 4}
+-A for act [values between 1-5]
+-S for scene [values between 1-4]
 -C for Character
 
 Scene Breakdown
@@ -15,7 +15,8 @@ Act 5: 2 Sceens
 
 ** Scene argument won't be accepted without Act Argument **
 
-Characters in Othello 
+Characters in Othello:
+
 'othello','desdemona','iago','michael cassio','emilia', 
 'roderigo','bianca','brabanzio','montano','lodvico','graziano', 
 'clown','duke of venice'
